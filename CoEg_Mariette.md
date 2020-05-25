@@ -1,8 +1,9 @@
 ---
 title: Lettres d'Auguste Mariette
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: false
 image: assets/images/Mariette.jpg
+show_tile: true
 nav-menu: true
 ---
 <section>
