@@ -12,9 +12,6 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>À propos</h1>
-		</header>
 
 <!-- Content -->
 <div class="row">
