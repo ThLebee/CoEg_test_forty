@@ -1,6 +1,6 @@
 ---
 title: Lettres d'Auguste Mariette
-layout: post
+layout: page
 image: assets/images/Mariette.jpg
 show_tile: true
 nav-menu: true
@@ -29,6 +29,7 @@ nav-menu: true
 <h2>Outils de visualisation</h2>
 <p>Quelques exemples d'utilisation des données accessibles plus haut.</p>
 
+<div class="row">
 <div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
