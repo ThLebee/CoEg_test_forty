@@ -1,6 +1,6 @@
 ---
 title: Lettres d'Auguste Mariette
-layout: generic
+layout: Generic
 image: assets/images/Mariette.jpg
 show_tile: true
 nav-menu: true
