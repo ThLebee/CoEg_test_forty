@@ -1,6 +1,6 @@
 ---
 title: Index
-layout: lindex
+layout: landing
 image: assets/images/Atlas.jpg
 description: 'Cette rubrique rassemble les entrées indexées au format XML.'
 show_tile: true
