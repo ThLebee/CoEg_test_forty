@@ -6,6 +6,7 @@ image: assets/images/Mariette.jpg
 show_tile: true
 nav-menu: true
 ---
+<div id="main" class="alt">
 <section>
 <h2>Édition des lettres</h2>
 
@@ -56,3 +57,4 @@ nav-menu: true
 </div>
 
 </section>
+</div>
