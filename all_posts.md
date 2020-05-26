@@ -4,7 +4,7 @@ title: Nouveautés
 landing-title: "All posts"
 nav-menu: true
 description: "La liste des actualités et l'avancée du projets."
-image: null
+image: assets/images/Aida.jpg
 author: 'Thomas Lebée'
 show_tile: true
 ---
