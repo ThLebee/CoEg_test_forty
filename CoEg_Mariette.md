@@ -50,38 +50,17 @@ nav-menu: true
 <hr>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Carte des lettres éditées</h3>
+		<p>Sur cette carte, chaque lettre est rattachée à son lieu d'écriture. La description donne des informations plus détaillées sur sa date et sa localisation actuelle.</p>
+		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#5/41.344/21.973"></iframe>
+		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359">Voir en plein écran</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Carte des lieux mentionnés dans les lettres</h3>
+
+		<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée est accessible dans l'<a href="https://thlebee.github.io/CoEg_test/website/Index">Index</a>.</p>
+		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#4/48.17/7.73"></iframe>
+		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360">Voir en plein écran</a></p>
 	</div>
 </div>
-<hr>
-	<div class="row">
-	
-		<div class="6u 12u$(medium)">
-			<h3>Carte des lettres éditées</h3>
-
-			<p>Sur cette carte, chaque lettre est rattachée à son lieu d'écriture. La description donne des informations plus détaillées sur sa date et sa localisation actuelle.</p>
-
-			<p><p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359">Voir en plein écran</a>
-			</p>
-			</div>
-		
-		<div class="6u$ 12u$(medium)">
-			<h3>Carte des lieux mentionnés dans les lettres</h3>
-
-			<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée est accessible dans l'<a href="https://thlebee.github.io/CoEg_test/website/Index">Index</a>.</p>
-
-			<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360">Voir en plein écran</a></p>
-			</div>
-			</div>
-			
-			<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#5/41.344/21.973"></iframe>
-			
-			<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#4/48.17/7.73"></iframe>
-			
-			
 			</section>
