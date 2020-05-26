@@ -11,7 +11,7 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	
+	<div class="inner">
 		<header class="major">
 			<h1>À propos</h1>
 		</header>
@@ -53,6 +53,7 @@ nav-menu: true
 <p>Pour citer une lettre en particulier, la pagination de l'édition au format PDF n'est pas une information pertinente puisqu'elle est amenée à changer à chaque enrichissement du corpus ; la date et le destinataire sont en revanche des critères d'identification plus sûrs, tout comme les références du document original. On pourra donc citer une lettre sous la forme "Auguste Mariette (Thomas Lebée, éd.), <i>Correspondances égyptologiques. Lettres d'Auguste Mariette</i>, lettre du 28 novembre 1853 à Nieuwerkerke (Archives nationales, 20150497/118, dossier 145)".</p>
 </div>
 
+</div>
 </div>
 </section>
 </div>
