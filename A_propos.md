@@ -11,11 +11,10 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
+	
 		<header class="major">
 			<h1>À propos</h1>
 		</header>
-		</div>
 
 <!-- Content -->
 <div class="row">
@@ -56,3 +55,4 @@ nav-menu: true
 
 </div>
 </section>
+</div>
