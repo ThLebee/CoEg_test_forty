@@ -2,7 +2,7 @@
 title: Index
 layout: page
 image: A_propos.jpg
-description: 'Cette rubrique rassemble les entrées d'indexation au format XML.'
+description: 'Cette rubrique rassemble les entrées indexées au format XML.'
 show_tile: true
 nav-menu: true
 ---
