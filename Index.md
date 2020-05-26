@@ -1,7 +1,7 @@
 ---
 title: Index
 layout: landing
-image: assets/images/Atlas.jpg
+image: assets/images/Atlas2.jpg
 description: 'Les entrées d’indexation : personnes, lieux, thèmes, glossaire, etc.'
 show_tile: true
 nav-menu: true
