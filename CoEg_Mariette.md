@@ -16,7 +16,7 @@ nav-menu: true
 </section>
 
 <section>
-<h2>Métadonnées des lettres</h3>
+<h2>Métadonnées des lettres</h2>
 
 <p>Les données descriptives des lettres sont ici rassemblées sous différents formats pour pouvoir être exploités informatiquement.</p>
 <ul><li>La <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_data_letters.tsv">descriptions des lettres</a> (au format CSV) : les différents champs reprennent, pour chaque lettre éditée, son identifiant, l'institution et le lieu de conservation, la date et le lieu d'écriture, l'identité du destinataire, ainsi que les identifiants associés ;</li>
