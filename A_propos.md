@@ -1,7 +1,7 @@
 ---
 title: À propos
 layout: landing
-image: assets/images/A_propos.jpg
+image: assets/images/A_propos2.jpg
 description: "Information de contact, présentation du projet et conditions de réutilisation."
 show_tile: true
 nav-menu: true
