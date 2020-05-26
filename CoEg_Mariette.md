@@ -1,6 +1,6 @@
 ---
 title: Lettres d'Auguste Mariette
-layout: landing
+layout: generic
 image: assets/images/Mariette.jpg
 show_tile: true
 nav-menu: true
@@ -23,11 +23,25 @@ nav-menu: true
 <li>La <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_CMIF.xml">description des lettres au format XML-CMIF</a> (<a href="https://correspsearch.net/index.xql?id=participate_cmi-format">Correspondence Metadata Interchange Format</a>).</li></ul>
 </section>
 
+<hr class="major" />
+
 <section>
 <h2>Outils de visualisation</h2>
 <p>Quelques exemples d'utilisation des données accessibles plus haut.</p>
 
-<p>A METTRE EN 3 PARAGRAPHES HORIZONTAUX</p>
+<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Faucibus consequat lorem</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Accumsan montes viverra</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+</div>
 
 <h3>Chronologie des lettres éditées</h3>
 
