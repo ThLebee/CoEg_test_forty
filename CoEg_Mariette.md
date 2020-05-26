@@ -1,6 +1,7 @@
 ---
 title: Lettres d'Auguste Mariette
 layout: page
+description : 'Cette rubrique rassemble les lettres écrites par Auguste Mariette, téléchargeables aux formats PDF et XML. Elle donne également accès aux métadonnées de ces documents et à des outils de visualisation autour de ce corpus (réduites à deux cartes).'
 image: assets/images/Mariette.jpg
 show_tile: true
 nav-menu: true
