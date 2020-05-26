@@ -15,6 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h1>À propos</h1>
 		</header>
+		</div>
 
 <!-- Content -->
 <div class="row">
