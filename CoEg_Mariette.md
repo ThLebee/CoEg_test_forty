@@ -27,8 +27,6 @@ nav-menu: true
 					<li>Le <a href="https://github.com/ThLebee/CoEg_test/raw/master/TEX/CoEg_Mariette.tex">fichier Latex</a> qui a permis de générer l'édition PDF ;</li>
 					<li>Une <a href="https://github.com/ThLebee/CoEg_test/raw/master/XML/CoEg_Mariette.xml">édition en XML-TEI</a>.</li></ul></p>
 
-	</section>
-
 	<section>
 	
 		<h2>Métadonnées des lettres</h2>
@@ -38,6 +36,8 @@ nav-menu: true
 			<li>La <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_CMIF.xml">description des lettres au format XML-CMIF</a> (<a href="https://correspsearch.net/index.xql?id=participate_cmi-format">Correspondence Metadata Interchange Format</a>).</li></ul></p>
 
 	</section>
+	
+<hr class="major" />
 
 	<section>
 	
@@ -55,14 +55,14 @@ nav-menu: true
 			
 	<div class="row">
 	
-		<div class="4u 12u$(medium)">
+		<div class="6u 12u$(medium)">
 			<h3>Carte des lettres éditées</h3>
 
 			<p>Sur cette carte, chaque lettre est rattachée à son lieu d'écriture. La description donne des informations plus détaillées sur sa date et sa localisation actuelle.</p>
 
 			<p><iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#5/41.344/21.973"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359">Voir en plein écran</a></p></div>
 		
-		<div class="4u$ 12u$(medium)">
+		<div class="6u$ 12u$(medium)">
 			<h3>Carte des lieux mentionnés dans les lettres</h3>
 
 			<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée est accessible dans l'<a href="https://thlebee.github.io/CoEg_test/website/Index">Index</a>.</p>
