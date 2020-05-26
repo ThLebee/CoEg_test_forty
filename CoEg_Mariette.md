@@ -1,15 +1,22 @@
 ---
-title: Lettres d'Auguste Mariette
+title: Lettres d’Auguste Mariette
 layout: landing
-description : 'Cette rubrique rassemble les lettres écrites par Auguste Mariette, téléchargeables aux formats PDF et XML. Elle donne également accès aux métadonnées de ces documents et à des outils de visualisation autour de ce corpus (réduites à deux cartes).'
+description : 'Cette rubrique rassemble les lettres écrites par Auguste Mariette, consultables et téléchargeables aux formats PDF et XML. Elle donne également accès aux métadonnées de ces documents et à des outils de visualisation autour de ce corpus.'
 image: assets/images/Mariette.jpg
 show_tile: true
 nav-menu: true
 ---
+<!-- Main -->
 <div id="main" class="alt">
-	
-	<section>
-	
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Lettres d’Auguste Mariette</h1>
+		</header>
+
+<!-- Content -->
 		<h2>Édition des lettres</h2>
 
 			<iframe src="https://ThLebee.github.io/CoEg_test/PDF/CoEg_Mariette.pdf" width="100%" height="500px"></iframe>
