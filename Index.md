@@ -1,8 +1,8 @@
 ---
 title: Index
 layout: landing
-image: assets/images/Atlas2.jpg
-description: 'Cette rubrique rassemble les entrées indexées au format XML.'
+image: assets/images/Atlas.jpg
+description: 'Les entrées d’indexation : personnes, lieux, thèmes, glossaire, etc.'
 show_tile: true
 nav-menu: true
 ---
