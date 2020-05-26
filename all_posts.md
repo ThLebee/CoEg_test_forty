@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: Nouveautés
+title: All posts
 landing-title: 'All posts'
 nav-menu: true
-description: 'La liste des actualités et l’avancée du projets.'
-image: assets/images/Aida2.jpg
-author: 'Thomas Lebée'
-show_tile: true
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
 <h1>All posts</h1>
