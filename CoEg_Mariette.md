@@ -69,3 +69,5 @@ nav-menu: true
 
 			<p><iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#4/48.17/7.73"></iframe><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360">Voir en plein écran</a></p>
 			</div>
+			</div>
+			</section>
