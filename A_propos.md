@@ -1,7 +1,7 @@
 ---
 title: À propos
 layout: page
-image:
+image: A_propos.jpeg
 description: "Information de contact, présentation du projet et conditions de réutilisation."
 show_tile: true
 nav-menu: true
