@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
+title: Nouveautés
 landing-title: 'All posts'
-nav-menu: false
-description: null
+nav-menu: true
+description: 'La liste des actualités et l'avancée du projets.'
 image: null
-author: null
-show_tile: false
+author: Thomas Lebée
+show_tile: true
 ---
 
 <h1>All posts</h1>
