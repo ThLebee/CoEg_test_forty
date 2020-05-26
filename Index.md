@@ -1,7 +1,7 @@
 ---
 title: Index
 layout: page
-image: A_propos.jpg
+image: assets/images/Atlas.jpg
 description: 'Cette rubrique rassemble les entrées indexées au format XML.'
 show_tile: true
 nav-menu: true
