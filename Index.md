@@ -33,17 +33,17 @@ nav-menu: true
 
 <p></p></div>
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="4u 12u$(small)">
 <h3>Contemporains</h3>
 
 <p>Cette catégorie regroupe les individus contemporains de l’écriture des lettres.</p></div>
 
-<div class="6u 12u$(small)">
+<div class="4u 12u$(small)">
 <h3>Personnages historiques</h3>
 
 <p>Cette catégorie regroupe les individus antérieurs à l’écriture des lettres.</p></div>
 
-<div class="6u 12u$(small)">
+<div class="4u 12u$(small)">
 <h3>Figures mythiques et divines</h3>
 
 <p>Cette catégorie regroupe surtout les personnages appartenant à la mythologie antique, mais aussi les mentions de figures religieuses monothéistes.</p></div>
