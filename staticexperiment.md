@@ -13,7 +13,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 
-        {% include Avancees.tiles.html %}
+        {% include Avancees.tile.html %}
 
 </div>
 </section>
