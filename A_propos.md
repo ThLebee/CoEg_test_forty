@@ -31,10 +31,19 @@ nav-menu: true
 <p>Les enrichissements progressifs du corpus seront signalés sur le carnet de recherche <i><a href="https://hef.hypotheses.org/">Histoire de l'égyptologie en formation</a></i>&nbsp;; ils sont également listés dans les <a href="https://thlebee.github.io/CoEg_test/website/News">actualités</a>.</p>
 	</div>
 </div>
-<div>
+<div class="row">
+
+	<div class="3u 12u$(medium)">
+		
+	</div>
+<div class="6u 12u$(medium)">
 	<h2>Contact</h2>
 
 <p>Toute remarque, critique ou suggestion d’amélioration sera la bienvenue à l’adresse suivante&nbsp;: <a href="mailto:correspondances.egyptologiques@laposte.net">correspondances.egyptologiques@laposte.net</a>.</p>
+	</div>
+	<div class="3u 12u$(medium)">
+		
+	</div>
 	</div>
 
 <div class="row">
