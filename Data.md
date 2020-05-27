@@ -90,7 +90,7 @@ nav-menu: true
 
 <div class="6u 12u$(small)"><h2>Termes égyptiens</h2>
 
-<p>Les lettres de l’échantillon ne comportent pas de citation hiéroglyphique. Le cas échéant, il pourra être utile de lister les termes présents, en les alignant sur les entrées du <i><a href="http://aaew.bbaw.de/tla/">Thesaurus Linguæ Ægiptiæ</a></i>.</p></div>
+<p>Les lettres de l’échantillon ne comportent pas de citation hiéroglyphique. Le cas échéant, il pourra être utile de lister les termes présents, en les alignant sur les entrées du <i><a href="http://aaew.bbaw.de/tla/">Thesaurus Linguæ Ægyptiæ</a></i>.</p></div>
 
 </div>
 
