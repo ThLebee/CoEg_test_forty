@@ -20,7 +20,7 @@ nav-menu: true
 <p>Les fichiers seront mis à jour à chaque enrichissement de l’édition des lettres de Mariette.</p>
 	</div>
 	<div class="6u 12u$(small)">
-<p>Il est possible que les catégories utiliées, leur définition ou leurs modalités d’emploi évoluent pendant le projet. Il est ainsi probable que les index s’enrichiront d'une catégorie «&nbsp;animaux&nbsp;» quand des lettres mentionnant les animaux familiers du musée de Boulaq seront éditées à leur tour (elle sera sans doute restreinte aux animaux portant des noms propres, comme pour les bateaux).</p>
+<p>Il est possible que les catégories utiliées, leur définition ou leurs modalités d’emploi évoluent pendant le projet. Il est ainsi probable que les index s’enrichiront d’une catégorie «&nbsp;animaux&nbsp;» quand des lettres mentionnant les animaux familiers du musée de Boulaq seront éditées à leur tour (elle sera sans doute restreinte aux animaux portant des noms propres, comme pour les bateaux).</p>
 </div>
 </div>
 <div class="box">
