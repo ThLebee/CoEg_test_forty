@@ -46,7 +46,7 @@ nav-menu: true
 			
 			<p>Cette frise indique les lettres éditées, classées par correspondant.</p>
 
-			<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='300px' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe></div>
+			<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='500px' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe></div>
 <hr>
 <div class="row">
 	<div class="6u 12u$(small)">
