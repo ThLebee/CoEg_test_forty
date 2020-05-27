@@ -16,19 +16,13 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h2>Présentation du projet</h2>
 
 <p>Ce site est un projet personnel d'édition numérique des lettres écrites par l'égyptologue Auguste Mariette. Il s'agit d'une initiative dont l'objectif est de rendre librement accessibles ces documents et de permettre leur exploitation scientifique.</p>
 	</div>
-
-	<div class="4u 12u$(medium)">
-	<h2>Contact</h2>
-
-<p>Toute remarque, critique ou suggestion d'amélioration sera la bienvenue à l'adresse suivante : <a href="mailto:correspondances.egyptologiques@laposte.net">correspondances.egyptologiques@laposte.net</a>.</p>
-	</div>
 	
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 
 	<h2>Avancée du projet</h2>
 
@@ -36,8 +30,14 @@ nav-menu: true
 <p>Dix-huit lettres issues des Archives nationales ont déjà été éditées à titre d'échantillon.</p>
 <p>Les enrichissements progressifs du corpus seront signalés sur le carnet de recherche <i><a href="https://hef.hypotheses.org/">Histoire de l'égyptologie en formation</a></i> ; ils sont également listés dans les <a href="https://thlebee.github.io/CoEg_test/website/News">actualités</a>.</p>
 	</div>
-	
-	<!-- Break -->
+</div>
+<div>
+	<h2>Contact</h2>
+
+<p>Toute remarque, critique ou suggestion d'amélioration sera la bienvenue à l'adresse suivante : <a href="mailto:correspondances.egyptologiques@laposte.net">correspondances.egyptologiques@laposte.net</a>.</p>
+	</div>
+
+<div class="row">
 	<div class="6u 12u$(medium)">
 <h2>Utilisation des ressources</h2>
 
