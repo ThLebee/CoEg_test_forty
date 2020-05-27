@@ -34,7 +34,7 @@ nav-menu: true
 
 <p>L’édition des lettres sera progressive, afin de publier les documents régulièrement et d’en améliorer le format en recevant des suggestions. Les sources parisiennes seront dépouillées en priorité pour commencer (par pure commodité matérielle), mais bien d’autres devraient suivre.</p>
 <p>Dix-huit lettres issues des Archives nationales ont déjà été éditées à titre d’échantillon.</p>
-<p>Les enrichissements progressifs du corpus seront signalés sur le carnet de recherche <i><a href="https://hef.hypotheses.org/">Histoire de l'égyptologie en formation</a></i>&nbsp;; ils sont également listés dans les <a href="https://thlebee.github.io/CoEg_test/website/News">actualités</a>.</p>
+<p>Les enrichissements progressifs du corpus seront signalés sur le carnet de recherche <i><a href="https://hef.hypotheses.org/">Histoire de l’égyptologie en formation</a></i>&nbsp;; ils sont également listés dans les <a href="https://thlebee.github.io/CoEg_test/website/News">actualités</a>.</p>
 	</div>
 </div>
 
