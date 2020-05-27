@@ -3,7 +3,7 @@ title: Expérience
 layout: landing
 image: assets/images/A_propos2.jpg
 description: "Présentation du projet, informations de contact et conditions de réutilisation."
-show_tile: false
+show_tile: true
 nav-menu: false
 ---
 <!-- Main -->
@@ -13,7 +13,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 
-        {% include tiles.html %}
+        {% include Avancees.tiles.html %}
 
 </div>
 </section>
