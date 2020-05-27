@@ -52,13 +52,20 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Carte des lettres éditées</h3>
 		<p>Sur cette carte, chaque lettre est rattachée à son lieu d'écriture. La description donne des informations plus détaillées sur sa date et sa localisation actuelle.</p>
-		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#5/41.344/21.973"></iframe>
-		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359">Voir en plein écran</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Carte des lieux mentionnés dans les lettres</h3>
 
 		<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée est accessible dans l'<a href="https://thlebee.github.io/CoEg_test/website/Index">Index</a>.</p>
+		
+	</div>
+</div>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#5/41.344/21.973"></iframe>
+		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359">Voir en plein écran</a></p>
+	</div>
+	<div class="6u$ 12u$(small)">
 		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#4/48.17/7.73"></iframe>
 		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360">Voir en plein écran</a></p>
 	</div>
