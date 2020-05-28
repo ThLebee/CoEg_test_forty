@@ -112,6 +112,7 @@
 			background-color: _palette(fg-bold);
 			box-shadow: none;
 			color: _palette(bg);
+			font-family: 'Rosario', sans-serif;
 
 			&:hover, &:active {
 				background-color: _palette(highlight);
