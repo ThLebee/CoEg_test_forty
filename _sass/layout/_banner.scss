@@ -24,18 +24,24 @@
 		position: relative;
 		top: -3.25em;
 
+		&:after {
+			background-color: _palette(bg);
+			content: '';
+			display: block;
+			height: 100%;
+			left: 0;
+			opacity: 0.85;
+			position: absolute;
+			top: 0;
+			width: 100%;
+			z-index: 1;
+		}
 
 		h1 {
 			font-size: 3.25em;
 		}
 
 		> .inner {
-			@include vendor('transition', (
-				'opacity 1.5s ease',
-				'transform 0.5s ease-out',
-				'filter 0.5s ease',
-				'-webkit-filter 0.5s ease'
-			));
 			padding: 0 !important;
 			position: relative;
 			z-index: 2;
