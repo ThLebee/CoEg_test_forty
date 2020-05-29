@@ -2,7 +2,7 @@
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header"{% if page.layout == "home" %} class="alt"{% endif %}>
+<header id="header">
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> </a> <span>{{ page.title }}{{ post.title }}</span>
 	<nav>
 		<a href="#menu">Menu</a>
@@ -12,13 +12,9 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
+       
 		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
+		    {% if page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
