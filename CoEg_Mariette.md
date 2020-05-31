@@ -19,17 +19,17 @@ nav-menu: true
 
 			<p>Les lettres peuvent être téléchargées sous plusieurs formats&nbsp;:
 				<ul>
-					<li>Une <a href="https://github.com/ThLebee/CoEg_test/raw/master/PDF/CoEg_Mariette.pdf">édition PDF</a>, qui permet de consulter le corpus&nbsp;;</li>
-					<li>Le <a href="https://github.com/ThLebee/CoEg_test/raw/master/TEX/CoEg_Mariette.tex">fichier Latex</a> qui a permis de générer l’édition PDF&nbsp;;</li>
-					<li>Une <a href="https://github.com/ThLebee/CoEg_test/raw/master/XML/CoEg_Mariette.xml">édition en XML-TEI</a>.</li></ul></p>
+					<li>Une <a href="https://github.com/ThLebee/CoEg_test/raw/master/PDF/CoEg_Mariette.pdf">édition PDF</a>, qui permet de consulter le corpus&nbsp;(à télécharger ou consulter ici si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
+					<li>Le <a href="https://github.com/ThLebee/CoEg_test/raw/master/TEX/CoEg_Mariette.tex">fichier Latex</a> qui a permis de générer l’édition PDF&nbsp;à télécharger ou consulter en ligne&nbsp;;</li>
+					<li>Une édition en <a href="https://tei-c.org/">XML-TEI</a>&nbsp;: à télécharger ou consulter ligne.</li></ul></p>
 
 	<section>
 	
 		<h2>Métadonnées des lettres</h2>
 
 		<p>Les données descriptives des lettres sont ici rassemblées sous différents formats pour pouvoir être exploités informatiquement.
-			<ul><li>La <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_data_letters.tsv">descriptions des lettres</a> (au format CSV)&nbsp;: les différents champs reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
-			<li>La <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_CMIF.xml">description des lettres au format XML-CMIF</a> (<a href="https://correspsearch.net/index.xql?id=participate_cmi-format">Correspondence Metadata Interchange Format</a>).</li></ul></p>
+			<ul><li>La descriptions des lettres  (au format CSV) à télécharger ou <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_data_letters.tsv">consulter dans le navigateur</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
+			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_CMIF.xml">consulter dans le navigateur</a> ou <a href="">télécharger</a>.</li></ul></p>
 
 	</section>
 	
