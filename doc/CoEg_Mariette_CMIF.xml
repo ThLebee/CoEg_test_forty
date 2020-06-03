@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>CoEg_Mariette_0,18</title>
+                <editor>Thomas Lebée<email>lebeethomas@laposte.net</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://thlebee.github.io/CoEg_test/">Thomas Lebée</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2020-05-23T19:13:25.95-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="g56dd3e6-45f8-434c-b42b-dad8779aee0b">Mariette, Auguste (Lebée, Thomas, ed.), Correspondances égyptologiques. Lettres d'Aug. Mariette<ref target="https://thlebee.github.io/CoEg_test/website/CoEg_Mariette">https://thlebee.github.io/CoEg_test/website/CoEg_Mariette</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#g56dd3e6-45f8-434c-b42b-dad8779aee0b" key="CoEg_Mariette_1851-02-28">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Auguste Mariette</persName>
+                    <date when="1851-02-28"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Émilien de Nieuwerkerke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g56dd3e6-45f8-434c-b42b-dad8779aee0b" key="CoEg_Mariette_1851-08-31">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Auguste Mariette</persName>
+                    <date when="1851-08-31"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Émilien de Nieuwerkerke</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
