@@ -1,0 +1,34 @@
+id	placeName	lat	lon	Wikidata_URL	TopBib_URL	TMGeo_URL	Pleiades_URL	GeoName_URL
+CoEg_place_00000001	Saqqara	29.85	31.233333333333	https://www.wikidata.org/wiki/Q192134	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=309		https://pleiades.stoa.org/places/796289136	http://www.geonames.org/349608
+CoEg_place_00000002	Paris	48.856944444444	2.3513888888889	https://www.wikidata.org/wiki/Q90		https://www.trismegistos.org/place/3278		http://www.geonames.org/2988507
+CoEg_place_00000003	Égypte	27	29	https://www.wikidata.org/wiki/Q79		https://www.trismegistos.org/place/49		http://www.geonames.org/357994
+CoEg_place_00000004	Sérapéum	29.87471111	31.21241944	https://www.wikidata.org/wiki/Q287375	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=309-030-020	https://www.trismegistos.org/place/10638	https://pleiades.stoa.org/places/737044	https://www.geonames.org/349484
+CoEg_place_00000005	Memphis	29.844666666667	31.250916666667	https://www.wikidata.org/wiki/Q5715	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-101-001	https://www.trismegistos.org/place/1344	https://pleiades.stoa.org/places/736963	https://www.geonames.org/352547
+CoEg_place_00000006	Alexandrie	31.2	29.916666666667	https://www.wikidata.org/wiki/Q87	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=401-090	https://www.trismegistos.org/place/100	https://pleiades.stoa.org/places/727070	https://www.geonames.org/361058
+CoEg_place_00000007	Giza	30.01	31.21	https://www.wikidata.org/wiki/Q81788	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=302	https://www.trismegistos.org/place/716	https://pleiades.stoa.org/places/442962448	https://www.geonames.org/360995
+CoEg_place_00000008	Abousyr	29.896111111111	31.203611111111	https://www.wikidata.org/wiki/Q336098	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=307		https://pleiades.stoa.org/places/195443086	https://www.geonames.org/362069
+CoEg_place_00000009	Suez	29.966666666667	32.533333333333	https://www.wikidata.org/wiki/Q134514	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=402a	https://www.trismegistos.org/place/2794		https://www.geonames.org/359796
+CoEg_place_00000010	Le Caire	30.056111111111	31.239444444444	https://www.wikidata.org/wiki/Q85		https://www.trismegistos.org/place/2740		https://www.geonames.org/360630
+CoEg_place_00000011	Londres	51.507222222222	-0.1275	https://www.wikidata.org/wiki/Q84		https://www.trismegistos.org/place/11298		https://www.geonames.org/2643743
+CoEg_place_00000012	Livourne	43.55	10.316666666667	https://www.wikidata.org/wiki/Q6761		https://www.trismegistos.org/place/45380		https://www.geonames.org/3174659
+CoEg_place_00000013	Europe	46	7	https://www.wikidata.org/wiki/Q46		https://www.trismegistos.org/place/3229		https://www.geonames.org/6255148
+CoEg_place_00000014	Suède	61	15	https://www.wikidata.org/wiki/Q34		https://www.trismegistos.org/place/20271		https://www.geonames.org/2661886
+CoEg_place_00000015	Royaume-Uni	54.6	-2	https://www.wikidata.org/wiki/Q145		https://www.trismegistos.org/place/19851		https://www.geonames.org/2635167
+CoEg_place_00000016	France	47	2	https://www.wikidata.org/wiki/Q142		https://www.trismegistos.org/place/693		https://www.geonames.org/3017382
+CoEg_place_00000018	Marseille	43.296666666667	5.3763888888889	https://www.wikidata.org/wiki/Q23482		https://www.trismegistos.org/place/1318		https://www.geonames.org/2995469
+CoEg_place_00000019	Thèbes	25.720555555556	32.610277777778	https://www.wikidata.org/wiki/Q101583	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-204-005	https://www.trismegistos.org/place/2355		https://www.geonames.org/347342
+CoEg_place_00000020	Haute-Egypte	24.1	32.7	https://www.wikidata.org/wiki/Q203751		https://www.trismegistos.org/place/2766		https://www.geonames.org/359888
+CoEg_place_00000021	Nil	0	0	https://www.wikidata.org/wiki/Q3392		https://www.trismegistos.org/place/3943		https://www.geonames.org/351036
+CoEg_place_00000022	Algérie	28	1	https://www.wikidata.org/wiki/Q262		https://www.trismegistos.org/place/10928		https://www.geonames.org/2589581
+CoEg_place_00000023	Citadelle du Caire	30.0294	31.2614	https://www.wikidata.org/wiki/Q1988240				https://www.geonames.org/7913721
+CoEg_place_00000024	Héliopolis	30.15	31.31667	https://www.wikidata.org/wiki/Q191687	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-113-002	https://www.trismegistos.org/place/761	https://pleiades.stoa.org/places/727117	https://www.geonames.org/355956
+CoEg_place_00000025	Myt Rahineh	29.854978 	31.254219 	https://www.wikidata.org/wiki/Q3317039	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=311			
+CoEg_place_00000026	Abydos	26.185167	31.918889	https://www.wikidata.org/wiki/Q192268	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=502	www.trismegistos.org/place/34	https://pleiades.stoa.org/places/756512	https://www.geonames.org/361885
+CoEg_place_00000027	Le Havre	49.494166666667	0.10805555555556	https://www.wikidata.org/wiki/Q42810				https://www.geonames.org/3003796
+CoEg_place_00000028	Dachour	29.8	31.233333333333	https://www.wikidata.org/wiki/Q685414	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=313	https://www.trismegistos.org/place/2751		https://www.geonames.org/358483
+CoEg_place_00000029	Boulaq	30.053	31.23	https://www.wikidata.org/wiki/Q1003523				https://www.geonames.org/358683
+CoEg_place_00000030	Atfih	0	0					
+CoEg_place_00000031	Badrashyn	29.8473761	31.2637705	https://www.wikidata.org/wiki/Q4165238				https://www.geonames.org/361473
+CoEg_place_00000032	Vincennes	48.847777777778	2.4391666666667	https://www.wikidata.org/wiki/Q193819				https://www.geonames.org/2968054
+CoEg_place_00000033	Assiout	27.186944444444	31.171388888889	https://www.wikidata.org/wiki/Q29962	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=412-010	https://www.trismegistos.org/place/1271	https://pleiades.stoa.org/places/756593	https://www.geonames.org/359783
+CoEg_place_00000034	Turin	45.066666666667	7.7	https://www.wikidata.org/wiki/Q495		https://www.trismegistos.org/place/19897		https://www.geonames.org/3165524
