@@ -19,7 +19,7 @@ nav-menu: true
 	<div class="6u 12u$(medium)">
 		<h2>Présentation du projet</h2>
 
-<p>Ce site est un projet personnel d’édition numérique des lettres écrites par l’égyptologue Auguste Mariette. Il s’agit d'une initiative dont l'objectif est de rendre librement accessibles ces documents et de permettre leur exploitation scientifique.</p>
+<p>Ce site est un projet personnel d’édition numérique des lettres écrites par l’égyptologue Auguste Mariette. Il s’agit d’une initiative dont l'objectif est de rendre librement accessibles ces documents et de permettre leur exploitation scientifique.</p>
 
 	<h2>Contact</h2>
 
@@ -32,9 +32,9 @@ nav-menu: true
 
 	<h2>Avancée du projet</h2>
 
-<p>L’édition des lettres sera progressive, afin de publier les documents régulièrement et d’en améliorer le format en recevant des suggestions. Les sources parisiennes seront dépouillées en priorité pour commencer (par pure commodité matérielle), mais bien d’autres devraient suivre.</p>
+<p>L’édition des lettres sera progressive, afin de publier les documents régulièrement et d’en améliorer le format au moyen des suggestions qui pourront être recueillies au cours de l’entreprise. Les sources parisiennes seront dépouillées en priorité pour commencer (par pure commodité matérielle), mais bien d’autres devraient suivre.</p>
 <p>Dix-huit lettres issues des Archives nationales ont déjà été éditées à titre d’échantillon.</p>
-<p>Les enrichissements progressifs du corpus seront signalés sur le carnet de recherche <i><a href="https://hef.hypotheses.org/">Histoire de l’égyptologie en formation</a></i>&nbsp;; ils sont également listés dans les <a href="https://thlebee.github.io/CoEg_test/website/News">actualités</a>.</p>
+<p>Les enrichissements progressifs du corpus seront signalés sur le carnet de recherche <i><a href="https://hef.hypotheses.org/">Histoire de l’égyptologie en formation</a></i>&nbsp;; ils sont également listés dans les <a href="{{site.baseurl}}/webpages/News">actualités</a>.</p>
 	</div>
 </div>
 
@@ -48,7 +48,7 @@ nav-menu: true
 	<div class="6u 12u$(medium)">
 <h2>Citation</h2>
 
-<p>Pour citer une lettre en particulier, la pagination de l'édition au format PDF n’est pas une information pertinente puisqu’elle est amenée à changer à chaque enrichissement du corpus&nbsp;; la date et le destinataire sont en revanche des critères d’identification plus sûrs, tout comme les références du document original. On pourra donc citer une lettre sous la forme «&nbsp;Auguste Mariette (Thomas Lebée, éd.), <i>Correspondances égyptologiques. Lettres d’Auguste Mariette</i>, lettre du 28 novembre 1853 à Nieuwerkerke (Archives nationales, 20150497/118, dossier 145)&nbsp;».</p>
+<p>Pour citer une lettre en particulier, la pagination de l’édition au format PDF n’est pas une information pertinente puisqu’elle est amenée à changer à chaque enrichissement du corpus&nbsp;; la date et le destinataire sont en revanche des critères d’identification plus sûrs, tout comme les références du document original. On pourra donc citer une lettre sous la forme «&nbsp;Auguste Mariette (Thomas Lebée, éd.), <i>Correspondances égyptologiques. Lettres d’Auguste Mariette</i>, lettre du 28 novembre 1853 à Nieuwerkerke (Archives nationales, 20150497/118, dossier 145)&nbsp;».</p>
 </div>
 
 </div>
