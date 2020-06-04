@@ -53,7 +53,7 @@ nav-menu: true
 <div class="row">
 <div class="4u 12u$(small)"><h2>Lieux</h2>
 
-<p>La liste des lieux cités</a> (au format CSV (à <a href="https://thlebee.github.io/CoEg_test/raw/doc/CoEg_index_place.tsv">consulter directement dans le navigateur</a> ou à <a href="{{site.baseurl}}/doc/CoEg_index_place.tsv" download>télécharger</a>) rassemble les données qui ont permis de réaliser les index des éditions des lettres aux différents formats et <a href="http://u.osmfr.org/m/461360/">leur carte</a>.</p></div>
+<p>La liste des lieux cités (au format CSV (à <a href="https://thlebee.github.io/CoEg_test_forty/raw/doc/CoEg_index_place.tsv">consulter directement dans le navigateur</a> ou à <a href="{{site.baseurl}}/doc/CoEg_index_place.tsv" download>télécharger</a>) rassemble les données qui ont permis de réaliser les index des éditions des lettres aux différents formats et <a href="http://u.osmfr.org/m/461360/">leur carte</a>.</p></div>
 
 
 <div class="4u 12u$(small)"><h2>Bateaux</h2>
