@@ -61,11 +61,11 @@ nav-menu: true
 </div>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#5/41.344/21.973"></iframe>
+		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#5/37.996/25.884"></iframe>
 		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359" class="button small">Voir en plein écran</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true#4/48.17/7.73"></iframe>
+		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#5/37.996/25.884"></iframe>
 		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360" class="button small">Voir en plein écran</a></p>
 	</div>
 </div>
