@@ -15,21 +15,21 @@ nav-menu: true
 <!-- Content -->
 		<h2>Édition des lettres</h2>
 
-			<iframe src="https://ThLebee.github.io/CoEg_test/PDF/CoEg_Mariette.pdf" width="100%" height="500px"></iframe>
+			<iframe src="https://ThLebee.github.io/CoEg_test_forty/doc/CoEg_Mariette.pdf" width="100%" height="500px"></iframe>
 
 			<p>Les lettres peuvent être téléchargées sous plusieurs formats&nbsp;:
 				<ul>
-					<li>Une <a href="https://github.com/ThLebee/CoEg_test/raw/master/PDF/CoEg_Mariette.pdf">édition PDF</a>, qui permet de consulter le corpus&nbsp;(à télécharger ou consulter ici si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
-					<li>Le <a href="https://github.com/ThLebee/CoEg_test/raw/master/TEX/CoEg_Mariette.tex">fichier Latex</a> qui a permis de générer l’édition PDF&nbsp;à télécharger ou consulter en ligne&nbsp;;</li>
-					<li>Une édition en <a href="https://tei-c.org/">XML-TEI</a>&nbsp;: à télécharger ou consulter ligne.</li></ul></p>
+					<li>Une édition PDF, qui permet de consulter le corpus&nbsp;(à <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf">consulter directement dans le navigateur</a> si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
+					<li>Le fichier Latex</a> qui a permis de générer l’édition PDF&nbsp;à <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex" download>télécharger</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex">consulter</a> en ligne&nbsp;;</li>
+					<li>Une édition en XML-TEI&nbsp;: à <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml" download>télécharger</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml">consulter en ligne</a>.</li></ul></p>
 
 	<section>
 	
 		<h2>Métadonnées des lettres</h2>
 
 		<p>Les données descriptives des lettres sont ici rassemblées sous différents formats pour pouvoir être exploités informatiquement.
-			<ul><li>La descriptions des lettres  (au format CSV) à télécharger ou <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_data_letters.tsv">consulter dans le navigateur</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
-			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="https://github.com/ThLebee/CoEg_test/raw/master/data/CoEg_Mariette_CMIF.xml">consulter dans le navigateur</a> ou <a href="">télécharger</a>.</li></ul></p>
+			<ul><li>La descriptions des lettres  (au format CSV) à télécharger ou <a href="{{site.baseurl}}/doc/CoEg_Mariette_letters.tsv">consulter dans le navigateur</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
+			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml">consulter dans le navigateur</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml" download>télécharger</a>.</li></ul></p>
 
 	</section>
 	
@@ -55,7 +55,7 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Carte des lieux mentionnés dans les lettres</h3>
 
-		<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée est accessible dans l’<a href="https://thlebee.github.io//CoEg_test_forty/Index.html">index</a>.</p>
+		<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée est accessible dans l’<a href="{{site.baseurl}}/webpages/data">index</a>.</p>
 		
 	</div>
 </div>
