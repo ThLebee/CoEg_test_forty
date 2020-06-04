@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+       <fileDesc>
+           <titleStmt>
+             <title>Index</title>
+           </titleStmt>
+        <publicationStmt>
+          <authority>Thomas Lebée</authority>
+          <availability>
+             <licence target="https://creativecommons.org/licenses/by/4.0/">
+               <p>Distribué sous licence libre CC BY : ce travail est librement réutilisable sous réserve de la mention de sa source originale.</p>
+             </licence>
+          </availability>
+        </publicationStmt>
+      <seriesStmt>
+        <title type="main">Correspondances égyptologiques</title>
+        <title type="full">Correspondances égyptologiques contenant des lettres d’égyptologues dispersées dans diverses institutions et qui n’ont pas encore été rassemblées jusqu’à ce jour</title>
+        <title type="short">CoÉg</title>
+      <respStmt>
+     <resp>éditées par</resp>
+    <name>Thomas Lebée</name>
+   </respStmt>
+  </seriesStmt>
+      <sourceDesc><p>Création numérique pour accompagner la publication des lettres d’Auguste Mariette.</p></sourceDesc>
+    </fileDesc>
+      <encodingDesc>
+        <p>L'encodage résulte de plusieurs étapes, destinées à transcrire le document tel qu'il apparaît, puis à baliser ses composants structurels et un certain nombre de termes d'indexations.</p>
+        <editorialDecl>
+  <p>Le texte a été transcrit sans modification, en reproduisant sa mise en forme et son usage des accents et des majuscules (quand leur graphie est manifeste en tout cas). Le texte souligné a été reproduit en italiques. Il a été résolu que les exposant de quelques abréviations étaient soulignés, plutôt que superposés à un simple point.</p>
+  <p>Les difficultés de lecture ont été notées entre crochets, parfois avec des suppositions. Dans le cas où la graphie manuscrite pouvait laisser planer un doute sur l'orthographe ou la ponctuation, en revanche, la forme régulière à été retenue.</p>
+  <p>En revanche, les graphies parfois hasardeuses et les fautes manifestes ont été conservées, et signalées comme telles dès lors qu'elles s'éloignaient de l'orthographe et de l'usage contemporains établis par les <hi rend="italic">Dictionnaires</hi> successivement publiés par l'Académie française en 1835 et 1878).</p>
+  <p>Les termes signalés par une astérisque ont été indexés à la fin du fichier : il s'agit des personnes, institutions, lieux, objets et publications présents dans le texte et son apparat critique.</p>
+  <p>Les termes étrangers ou rares et les abbréviations, enfin, ont aussi été indexées.</p>
+        </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+        <creation>
+          <date when="2020-01">Janvier 2020</date>
+        </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-01">V. 0,18 : essais sur un premier échantillon de lettres issus du dossier de carrière de <persName sameAs="#CoEg_pers_00000001">Mariette</persName> dans l'<orgName sameAs="#CoEg_org_00000001">administration des musées nationaux</orgName>.</change>
+    </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+          <div>
+            <head>Noms de personnes</head>
+              <listPerson>
+              <listPerson><head>Contemporains de Mariette</head>
+              <person xml:id="CoEg_pers_00000016" role="contemp"><persName>Abbas Pacha</persName><idno type="Wikidata">Q305882</idno><note type="def">Vice-roi d'Égypte (1813-1854)</note></person>
+              <person xml:id="CoEg_pers_00000075" role="contemp"><persName>Achille Fould</persName><idno type="Wikidata">Q340215</idno><note type="def">Homme d'État (1800-1867)</note></person>
+              <person xml:id="CoEg_pers_00000078" role="contemp"><persName>Adolphe Billaut</persName><idno type="Wikidata">Q505189</idno><note type="def">Homme d'État (1805-1863)</note></person>
+              <person xml:id="CoEg_pers_00000050" role="contemp"><persName>Aïdi</persName></person>
+              <person xml:id="CoEg_pers_00000043" role="contemp"><persName>An/ugn/uiot ?</persName></person>
+              <person xml:id="CoEg_pers_00000004" role="contemp"><persName>Baroche, Jules</persName><idno type="Wikidata">Q3385651</idno><note type="def">Homme d'État (1802-1870)</note><note type="Mariette">ministre de l'Intérieur en 1850</note></person>
+              <person xml:id="CoEg_pers_00000027" role="contemp"><persName>Batissier, Louis</persName><idno type="dataBnF">13777288</idno></person>
+              <person xml:id="CoEg_pers_00000025" role="contemp"><persName>Benedetti, Vincent</persName><idno type="Wikidata">Q1350848</idno><note type="def">Diplomate (1817-1900)</note></person>
+              <person xml:id="CoEg_pers_00000074" role="contemp"><persName>Bonaparte, Napoléon-Jérôme</persName><idno type="Wikidata">Q434077</idno><note type="def">Prince français (1822-1891)</note><persName type="alias">Napoléon (prince)</persName></person>
+              <person xml:id="CoEg_pers_00000070" role="contemp"><persName>Bonnefoy</persName></person>
+              <person xml:id="CoEg_pers_00000038" role="contemp"><persName>Boujon</persName></person>
+              <person xml:id="CoEg_pers_00000054" role="contemp"><persName>Brey de Prusser</persName></person>
+              <person xml:id="CoEg_pers_00000051" role="contemp"><persName>Brunet de Presle, Wladimir</persName><idno type="Wikidata">Q4097433</idno></person>
+              <person xml:id="CoEg_pers_00000021" role="contemp"><persName>Clot [Bey], Antoine</persName><idno type="Wikidata">Q2372786</idno><note type="def">Médecin</note></person>
+              <person xml:id="CoEg_pers_00000015" role="contemp"><persName>D'Anastasi, Giovanni</persName><idno type="Wikidata">Q5563656</idno><note type="def">Marchand et antiquaire (1765-1860)</note><persName type="alias">Anastasi</persName></person>
+              <person xml:id="CoEg_pers_00000044" role="contemp"><persName>Sauzay [Lanzay ?] (de)</persName></person>
+              <person xml:id="CoEg_pers_00000067" role="contemp"><persName>Delaporte, Pacifique-Henri</persName><idno type="Wikidata">Q47461240</idno></person>
+              <person xml:id="CoEg_pers_00000082" role="contemp"><persName>Devéria, Théodule</persName><idno type="Wikidata">Q406953</idno><note type="def">Égyptologue (1831-1871)</note></person>
+              <person xml:id="CoEg_pers_00000041" role="contemp"><persName>Drouyn de Lhuys, Édouard</persName><idno type="Wikidata">Q274294</idno></person>
+              <person xml:id="CoEg_pers_00000079" role="contemp"><persName>Morny (de), Charles</persName><idno type="Wikidata">Q965335</idno><note type="def">Homme d'État (1811-1865)</note></person>
+              <person xml:id="CoEg_pers_00000003" role="contemp"><persName>Esquirou de Parieu, Félix</persName><idno type="Wikidata">Q535804</idno><note type="def">Homme d'État (1815-1893)</note><note type="Mariette">ministre de l'Instruction publique en 1850</note><persName type="alias">Parieu (de), Félix</persName></person>
+              <person xml:id="CoEg_pers_00000076" role="contemp"><persName>Eugénie (impératrice)</persName><idno type="Wikidata">Q157130</idno><note type="def">Impératrice, épouse de Napoléon III (1826-1920)</note><persName type="alias">de Montijo, Eugénie</persName></person>
+              <person xml:id="CoEg_pers_00000081" role="contemp"><persName>Ferri-Pisani, Camille</persName><note type="def">Officier militaire.(1819-1893)</note></person>
+              <person xml:id="CoEg_pers_00000049" role="contemp"><persName>Fleury Hérard</persName><note type="def">Banquier</note></person>
+              <person xml:id="CoEg_pers_00000062" role="contemp"><persName>Fouad Effendi</persName></person>
+              <person xml:id="CoEg_pers_00000048" role="contemp"><persName>Hékékyan Bey</persName></person>
+              <person xml:id="CoEg_pers_00000014" role="contemp"><persName>Lafuente</persName></person>
+              <person xml:id="CoEg_pers_00000020" role="contemp"><persName>Lambert [Bey], Charles Joseph</persName><idno type="Wikidata">Q18744680</idno><note type="def">Ingénieur (1804-1864)</note></person>
+              <person xml:id="CoEg_pers_00000024" role="contemp"><persName>Le Moyne</persName><note type="def">Diplomate</note></person>
+              <person xml:id="CoEg_pers_00000052" role="contemp"><persName>Le Moyne, Auguste</persName><note type="def">Fils de Le Moyne</note></person>
+              <person xml:id="CoEg_pers_00000053" role="contemp"><persName>Le Moyne, [madame]</persName><note type="def">Épouse de Le Moyne</note></person>
+              <person xml:id="CoEg_pers_00000061" role="contemp"><persName>Lepsius</persName><idno type="Wikidata">Q77231</idno><note type="def">Égyptologue (1810-1884)</note></person>
+              <person xml:id="CoEg_pers_00000019" role="contemp"><persName>Linant de Bellefonds [Pacha], Louis Maurice Adolphe</persName><idno type="Wikidata">Q960740</idno><note type="def">Ingénieur (1798-1883)</note></person>
+              <person xml:id="CoEg_pers_00000033" role="contemp"><persName>Longpérier (de), Adrien</persName><idno type="Wikidata">Q127218</idno><note type="def">Archéologue (1816-1882)</note></person>
+              <person xml:id="CoEg_pers_00000077" role="contemp"><persName>Louis-Philippe</persName><idno type="Wikidata">Q7771</idno><note type="def">Roi des Français (1773-1850)</note><persName type="alias">Orléans (d'), Louis-Philippe</persName></person>
+              <person xml:id="CoEg_pers_00000001" role="contemp"><persName>Mariette [Pacha], Auguste</persName><idno type="Wikidata">Q311850</idno><note type="def">Égyptologue (1821-1881)</note></person>
+              <person xml:id="CoEg_pers_00000084" role="contemp"><persName>Mariette, Alphonse Paulin</persName><note type="def">Fils de Mariette (1856-1879)</note></person>
+              <person xml:id="CoEg_pers_00000083" role="contemp"><persName>Mariette, Émilie Marie</persName><note type="def">Fille de Mariette (1855-1871)</note></person>
+              <person xml:id="CoEg_pers_00000007" role="contemp"><persName>Mariette, Joséphine Cornélie</persName><note type="def">Fille de Mariette (1847-1873)</note></person>
+              <person xml:id="CoEg_pers_00000006" role="contemp"><persName>Mariette, Marguerite Louise</persName><note type="def">Fille de Mariette (1846-1861)</note></person>
+              <person xml:id="CoEg_pers_00000008" role="contemp"><persName>Mariette, Sophie Éléonore</persName><note type="def">Fille de Mariette (1849-1885)</note></person>
+              <person xml:id="CoEg_pers_00000017" role="contemp"><persName>Méhémet Ali</persName><idno type="Wikidata">Q182781</idno><note type="def">Vice-roi d'Égypte (1769-1849)</note></person>
+              <person xml:id="CoEg_pers_00000005" role="contemp"><persName>Millon (épouse Mariette), Éléonore</persName><note type="def">Épouse de Mariette (1827-1865)</note></person>
+              <person xml:id="CoEg_pers_00000018" role="contemp"><persName>Murray, Charles</persName><idno type="Wikidata">Q1063616</idno><note type="def">Diplomate (1806-1895)</note></person>
+              <person xml:id="CoEg_pers_00000045" role="contemp"><persName>N.</persName></person>
+              <person xml:id="CoEg_pers_00000071" role="contemp"><persName>Napoléon III</persName><idno type="Wikidata">Q7721</idno><note type="def">Empereur des Français (1808-1873)</note><persName type="alias">Bonaparte, Louis-Napoléon</persName></person>
+              <person xml:id="CoEg_pers_00000002" role="contemp"><persName>Nieuwerkerke (de), Émilien</persName><idno type="Wikidata">Q1232403</idno><note type="def">Artiste et homme d'État (1811-1892)</note></person>
+              <person xml:id="CoEg_pers_00000046" role="contemp"><persName>Pastré, Eugène</persName><idno type="Wikidata">Q5408576</idno></person>
+              <person xml:id="CoEg_pers_00000032" role="contemp"><persName>Rougé (de), Emmanuel</persName><idno type="Wikidata">Q2087467</idno><note type="def">Égyptologue (1811-1872)</note></person>
+              <person xml:id="CoEg_pers_00000040" role="contemp"><persName>Sabatier</persName><note type="def">Diplomate</note></person>
+              <person xml:id="CoEg_pers_00000028" role="contemp"><persName>Safar Pacha</persName></person>
+              <person xml:id="CoEg_pers_00000080" role="contemp"><persName>Saïd Pacha</persName><idno type="Wikidata">Q366744</idno><note type="def">Vice-roi d'Égypte (1822-1863)</note></person>
+              <person xml:id="CoEg_pers_00000059" role="contemp"><persName>Soliman Pacha</persName><idno type="Wikidata">Q745216</idno><note type="def">Militaire français passé au service de l'Égypte (1788-1860)</note><persName type="alias">Seve, Joseph</persName></person>
+              <person xml:id="CoEg_pers_00000029" role="contemp"><persName>Stéphan Bey</persName></person>
+              <person xml:id="CoEg_pers_00000022" role="contemp"><persName>Varin [Bey], Noël</persName><note type="def">Militaire (1784-1863)</note></person>
+              <person xml:id="CoEg_pers_00000039" role="contemp"><persName>Verrier</persName></person>
+              <person xml:id="CoEg_pers_00000037" role="contemp"><persName>Victor Fialin de Persigny</persName><idno type="Wikidata">Q3174556</idno></person>
+              <person xml:id="CoEg_pers_00000034" role="contemp"><persName>Viel-Castel (de), Horace</persName><idno type="Wikidata">Q3140481</idno><note type="def">Historien d'art (1802-1864)</note></person>
+              <person xml:id="CoEg_pers_00000035" role="contemp"><persName>Villot, Frédéric</persName><idno type="Wikidata">Q3090265</idno><note type="def">Graveur et historien d'art (1809-1875)</note></person>
+              <person xml:id="CoEg_pers_00000023" role="contemp"><persName>Walker [Bey]</persName><note type="def">Boulanger britannique d'Abbas Pacha</note></person>
+            </listPerson>
+              <listPerson><head>Personnages historiques</head>
+              <person xml:id="CoEg_pers_00000058" role="hist"><persName>Amasis</persName><idno type="Wikidata">Q312045</idno><note type="def">Roi égyptien</note></person>
+              <person xml:id="CoEg_pers_00000010" role="hist"><persName>Amyrtée</persName><idno type="Wikidata">Q318000</idno><note type="def">Roi égyptien</note></person>
+              <person xml:id="CoEg_pers_00000069" role="hist"><persName>Antef</persName><persName type="alias">Entef</persName></person>
+              <person xml:id="CoEg_pers_00000063" role="hist"><persName>Apriès</persName><idno type="Wikidata">Q349291</idno><note type="def">Roi égyptien</note><persName type="alias">Ouaphris</persName></person>
+              <person xml:id="CoEg_pers_00000055" role="hist"><persName>Artaxerxes III</persName><idno type="Wikidata">Q192867</idno><note type="def">Roi perse</note></person>
+              <person xml:id="CoEg_pers_00000030" role="hist"><persName>Cambyse</persName><idno type="Wikidata">Q182483</idno><note type="def">Roi perse</note></person>
+              <person xml:id="CoEg_pers_00000064" role="hist"><persName>Chechonq III</persName><idno type="Wikidata">Q878396</idno><note type="def">Roi égyptien</note></person>
+              <person xml:id="CoEg_pers_00000057" role="hist"><persName>Darius</persName><idno type="Wikidata">Q44387</idno><note type="def">Roi perse</note></person>
+              <person xml:id="CoEg_pers_00000031" role="hist"><persName>Diodore de Sicile</persName><idno type="Wikidata">Q171241</idno><note type="def">Historien grec</note></person>
+              <person xml:id="CoEg_pers_00000013" role="hist"><persName>Nectanébo</persName><note type="def">Roi égyptien</note></person>
+              <person xml:id="CoEg_pers_00000009" role="hist"><persName>Néphéritès Ier</persName><idno type="Wikidata">Q450994</idno><note type="def">Roi égyptien</note></person>
+              <person xml:id="CoEg_pers_00000066" role="hist"><persName>Neshor</persName><persName type="alias">Ensahor</persName></person>
+              <person xml:id="CoEg_pers_00000026" role="hist"><persName>Ramsès II</persName><idno type="Wikidata">Q1523</idno><note type="def">Roi égyptien</note></person>
+            </listPerson>
+              <listPerson><head>Figures mythologiques ou religieuses</head>
+              <person xml:id="CoEg_pers_00000072" role="myth"><persName>Allah</persName><idno type="Wikidata">Q234801</idno></person>
+              <person xml:id="CoEg_pers_00000068" role="myth"><persName>Anubis</persName><idno type="Wikidata">Q47534</idno><note type="def">Dieu égyptien</note></person>
+              <person xml:id="CoEg_pers_00000011" role="myth"><persName>Apis</persName><idno type="Wikidata">Q208150</idno><note type="def">Taureau sacré de Ptah à Memphis</note></person>
+              <person xml:id="CoEg_pers_00000036" role="myth"><persName>Dieu</persName><idno type="Wikidata">Q190</idno></person>
+              <person xml:id="CoEg_pers_00000042" role="myth"><persName>Osiris</persName><idno type="Wikidata">Q46491</idno><note type="def">Dieu égyptien</note></person>
+              <person xml:id="CoEg_pers_00000047" role="myth"><persName>Ptah</persName><idno type="Wikidata">Q146321</idno><note type="def">Dieu égyptien</note><persName type="alias">Vulcain</persName></person>
+              <person xml:id="CoEg_pers_00000060" role="myth"><persName>Sérapis</persName><idno type="Wikidata">Q214554</idno><note type="def">Dieu égyptien</note></person>
+              <person xml:id="CoEg_pers_00000012" role="myth"><persName>Seth</persName><idno type="Wikidata">Q131795</idno><note type="def">Dieu égyptien</note><note type="Mariette">Mariette utilise la désignation grecque "Typhon".</note></person>
+            </listPerson>
+  </listPerson>
+            </div>
+          <div>
+          <listOrg><head>Institutions</head>
+            <org xml:id="CoEg_org_00000011"><orgName>Administration des Beaux-Arts</orgName><note>[vérifier le substantif adapté en 1852 ; et par la suite...]</note></org>
+  <org xml:id="CoEg_org_00000024"><orgName>Archives nationales</orgName><idno type="Wikidata">Q182542</idno></org>
+  <org xml:id="CoEg_org_00000013"><orgName>Armée égyptienne</orgName><idno type="Wikidata">Q1075553</idno></org>
+  <org xml:id="CoEg_org_00000005"><orgName>British Museum</orgName><idno type="Wikidata">Q6373</idno></org>
+  <org xml:id="CoEg_org_00000023"><orgName>Collège de France</orgName><idno type="Wikidata">Q202660</idno></org>
+  <org xml:id="CoEg_org_00000006"><orgName>Consulat général de France à Alexandrie</orgName></org>
+  <org xml:id="CoEg_org_00000020"><orgName>Département égyptien du musée du Louvre</orgName><note>Division du <orgName sameAs="#CoEg_org_00000002">musée du Louvre</orgName>.</note></org>
+  <org xml:id="CoEg_org_00000014"><orgName>Gouvernement britannique</orgName><idno type="Wikidata">Q6063</idno></org>
+  <org xml:id="CoEg_org_00000008"><orgName>Gouvernement égyptien</orgName><idno type="Wikidata">Q33121876</idno></org>
+  <org xml:id="CoEg_org_00000012"><orgName>Gouvernement français ; État français</orgName><idno type="Wikidata">Q1450662</idno></org>
+  <org xml:id="CoEg_org_00000004"><orgName>Institut de France</orgName><idno type="Wikidata">Q377066</idno></org>
+  <org xml:id="CoEg_org_00000010"><orgName>Ministère d'État et de la maison de l'empereur</orgName></org>
+  <org xml:id="CoEg_org_00000017"><orgName>Ministère égyptien de l'Instruction publique</orgName></org>
+  <org xml:id="CoEg_org_00000016"><orgName>Ministère égyptien des Travaux publics</orgName></org>
+  <org xml:id="CoEg_org_00000009"><orgName>Ministère français de l'Intérieur</orgName><idno type="Wikidata">Q1518496</idno></org>
+  <org xml:id="CoEg_org_00000019"><orgName>Ministère français de la Marine</orgName></org>
+  <org xml:id="CoEg_org_00000007"><orgName>Ministère français des Affaires étrangères</orgName><idno type="Wikidata">Q789848</idno></org>
+  <org xml:id="CoEg_org_00000022"><orgName>Musée de Boulaq</orgName><idno type="Wikidata">Q2399429</idno></org>
+  <org xml:id="CoEg_org_00000021"><orgName>Musée de Turin</orgName><idno type="Wikidata">Q19877</idno></org>
+  <org xml:id="CoEg_org_00000002"><orgName>Musée du Louvre</orgName><idno type="Wikidata">Q19675</idno></org>
+  <org xml:id="CoEg_org_00000003"><orgName>Musée du Vatican</orgName><idno type="Wikidata">Q526381</idno></org>
+  <org xml:id="CoEg_org_00000018"><orgName>Musée ethnographique</orgName><note>Division du <orgName sameAs="#CoEg_org_00000002">musée du Louvre</orgName>.</note></org>
+  <org xml:id="CoEg_org_00000001"><orgName>Musée nationaux/impériaux (direction des)</orgName></org>
+  <org xml:id="CoEg_org_00000015"><orgName>Société géologique de Londres</orgName><idno type="Wikidata">Q1230936</idno></org>
+          </listOrg>
+        </div>
+          <div>
+          <listPlace><head>Noms de lieux</head>
+            <place xml:id="CoEg_place_00000008"><placeName>Abousyr</placeName><location><geo>29.896111111111, 31.203611111111</geo></location><idno type="Wikidata">Q336098</idno></place>
+    <place xml:id="CoEg_place_00000026"><placeName>Abydos</placeName><location><geo>29.8666, 31.25</geo></location><idno type="Wikidata">Q192268</idno></place>
+    <place xml:id="CoEg_place_00000006"><placeName>Alexandrie</placeName><location><geo>31.2, 29.916666666667</geo></location><idno type="Wikidata">Q87</idno></place>
+    <place xml:id="CoEg_place_00000022"><placeName>Algérie</placeName><location><geo>31.4653, 30.3667</geo></location><idno type="Wikidata">Q262</idno></place>
+    <place xml:id="CoEg_place_00000033"><placeName>Assiout</placeName><location><geo>27.186944444444, 31.171388888889</geo></location><idno type="Wikidata">Q29962</idno></place>
+    <place xml:id="CoEg_place_00000030"><placeName>Atfih</placeName><location><geo>30.053, 31.23</geo></location><note type="def">Poste de douane entre <placeName sameAs="#CoEg_place_00000029">Boulaq</placeName> et <placeName sameAs="#CoEg_place_00000006">Alexandrie</placeName> ; Al-atf, près de Mahmudiyya, sur le canal de Rosette ?</note></place>
+    <place xml:id="CoEg_place_00000031"><placeName>Badrashyn</placeName><location><geo>29.8473761, 31.2637705</geo></location><note type="def">Village sur le <placeName sameAs="#CoEg_place_00000021">Nil</placeName>, au voisinnage immédiat de <placeName sameAs="#CoEg_place_00000001">Saqqara</placeName> et de <placeName sameAs="#CoEg_place_00000025">Mit Rahineh</placeName>.</note><note type="Mariette"><persName sameAs="#CoEg_pers_00000001">Mariette</persName> écrit "Bédréchyn".</note></place>
+    <place xml:id="CoEg_place_00000029"><placeName>Boulaq</placeName><location><geo>29.8, 31.233333333333</geo></location><idno type="Wikidata">Q1003523</idno></place>
+    <place xml:id="CoEg_place_00000023"><placeName>Citadelle du Caire</placeName><location><geo>28, 1</geo></location><idno type="Wikidata">Q1988240</idno></place>
+    <place xml:id="CoEg_place_00000028"><placeName>Dachour</placeName><location><geo>49.494166666667, 0.10805555555556</geo></location><idno type="Wikidata">Q685414</idno></place>
+    <place xml:id="CoEg_place_00000003"><placeName>Égypte</placeName><location><geo>27, 29</geo></location><idno type="Wikidata">Q79</idno></place>
+    <place xml:id="CoEg_place_00000013"><placeName>Europe</placeName><location><geo>46, 7</geo></location><idno type="Wikidata">Q46</idno></place>
+    <place xml:id="CoEg_place_00000016"><placeName>France</placeName><location><geo>47, 2</geo></location><idno type="Wikidata">Q142</idno></place>
+    <place xml:id="CoEg_place_00000007"><placeName>Giza</placeName><location><geo>30.01, 31.21</geo></location><idno type="Wikidata">Q81788</idno></place>
+    <place xml:id="CoEg_place_00000020"><placeName>Haute-Egypte</placeName><location><geo>24.1, 32.7</geo></location><idno type="Wikidata">Q203751</idno></place>
+    <place xml:id="CoEg_place_00000024"><placeName>Héliopolis</placeName><location><geo>30.0294, 31.2614</geo></location><idno type="Wikidata">Q191687</idno></place>
+    <place xml:id="CoEg_place_00000010"><placeName>Le Caire</placeName><location><geo>30.056111111111, 31.239444444444</geo></location><idno type="Wikidata">Q85</idno></place>
+    <place xml:id="CoEg_place_00000027"><placeName>Le Havre</placeName><location><geo>26.185167, 31.918889</geo></location><idno type="Wikidata">Q42810</idno></place>
+    <place xml:id="CoEg_place_00000012"><placeName>Livourne</placeName><location><geo>43.55, 10.316666666667</geo></location><idno type="Wikidata">Q6761</idno></place>
+    <place xml:id="CoEg_place_00000011"><placeName>Londres</placeName><location><geo>51.507222222222, -0.1275</geo></location><idno type="Wikidata">Q84</idno></place>
+    <place xml:id="CoEg_place_00000018"><placeName>Marseille</placeName><location><geo>43.296666666667, 5.3763888888889</geo></location><idno type="Wikidata">Q23482</idno></place>
+    <place xml:id="CoEg_place_00000005"><placeName>Memphis</placeName><location><geo>29.844666666667, 31.250916666667</geo></location><idno type="Wikidata">Q5715</idno></place>
+    <place xml:id="CoEg_place_00000025"><placeName>Myt Rahineh</placeName><location><geo>30.129527777778, 31.288888888889</geo></location><idno type="Wikidata">Q3317039</idno></place>
+    <place xml:id="CoEg_place_00000021"><placeName>Nil</placeName><location><geo>0.4174, 33.1951</geo></location><idno type="Wikidata">Q3392</idno></place>
+    <place xml:id="CoEg_place_00000002"><placeName>Paris</placeName><location><geo>48.856944444444, 2.3513888888889</geo></location><idno type="Wikidata">Q90</idno></place>
+    <place xml:id="CoEg_place_00000015"><placeName>Royaume-Uni</placeName><location><geo>54.6, -2</geo></location><idno type="Wikidata">Q145</idno></place>
+    <place xml:id="CoEg_place_00000001"><placeName>Saqqara</placeName><location><geo>29.85, 31.233333333333</geo></location><idno type="Wikidata">Q192134</idno></place>
+    <place xml:id="CoEg_place_00000004"><placeName>Sérapéum</placeName><location><geo>29.87471111, 31.21241944</geo></location><idno type="Wikidata">Q287375</idno></place>
+    <place xml:id="CoEg_place_00000014"><placeName>Suède</placeName><location><geo>61, 15</geo></location><idno type="Wikidata">Q34</idno></place>
+    <place xml:id="CoEg_place_00000009"><placeName>Suez</placeName><location><geo>29.966666666667, 32.533333333333</geo></location><idno type="Wikidata">Q134514</idno></place>
+    <place xml:id="CoEg_place_00000019"><placeName>Thèbes</placeName><location><geo>25.720555555556, 32.610277777778</geo></location><idno type="Wikidata">Q101583</idno></place>
+    <place xml:id="CoEg_place_00000034"><placeName>Turin</placeName><location><geo>45.066666666667, 7.7</geo></location><idno type="Wikidata">Q495</idno></place>
+    <place xml:id="CoEg_place_00000032"><placeName>Vincennes</placeName><location><geo>48.847777777778, 2.4391666666667</geo></location><idno type="Wikidata">Q193819</idno></place>
+          </listPlace>
+        </div>
+        <div><listPerson><head>Bateaux</head>
+        <person xml:id="CoEg_pers_00000073" role="boat"><persName>Albatros</persName></person>
+      </listPerson></div>
+          <div><head>Publications</head>
+          <bibl xml:id="CoEg_bibl_00000001"><author><persName><hi rend="smallcaps">Brunet de Presle</hi> Wladimir</persName></author><title type="article">Mémoire sur le Sérapéum de Memphis</title> <title type="monogr"><hi rend="italic">Mémoires présentés par divers savants étrangers à l’Académie</hi></title> 2 <date>1852</date><biblScope>p. 552-576</biblScope><ref>https://www.persee.fr/doc/mesav_0398-3587_1852_num_2_1_1014</ref></bibl>
+          <bibl xml:id="CoEg_bibl_00000002"><author><persName sameAs="CoEg_pers_00000061"><hi rend="smallcaps">Lepsius</hi> Karl Richard</persName></author><title type="monogr"><hi rend="italic">Denkmäler aus Ägypten und Äthiopien </hi></title><pubPlace>Berlin</pubPlace><publisher>Nicolaische Buchhandlung </publisher><date>1849-1859</date><ref>http://edoc3.bibliothek.uni-halle.de/lepsius/start.html</ref></bibl>
+    <bibl xml:id="CoEg_bibl_00000003"><author><persName><hi rend="smallcaps">Le Moniteur</hi> </persName></author><title type="monogr"><hi rend="italic"></hi></title><ref>https://gallica.bnf.fr/ark:/12148/cb34452336z/date.item</ref></bibl>
+    <bibl xml:id="CoEg_bibl_00000004"><author><persName sameAs="#CoEg_pers_00000032"><hi rend="smallcaps">[Anonyme ; Rougé (de)</hi> Emmanuel ?]</persName></author><title type="article">Ouverture des salles égyptiennes du premier étage, au Louvre. Nouveaux monuments envoyés par M. Mariette</title> <title type="monogr" sameAs="#CoEg_bibl_00000003"><hi rend="italic">Le Moniteur</hi></title> 8 juillet 1853 <biblScope>p. 2</biblScope><ref>https://www.retronews.fr/journal/gazette-nationale-ou-le-moniteur-universel/8-juillet-1853/149/1538523/2</ref></bibl>
+        </div>
+          <div><head>Objets</head><listObject>
+          <object xml:id="CoEg_obj_00000013"><objectIdentifier><institution sameAs="#!!!">À identifier</institution></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><history><provenance sameAs="#CoEg_place_00000005">Sérapéum</provenance></history><note type="def">Tête vraisemblablement saïte envoyée par <persName sameAs="#CoEg_pers_00000001">Mariette</persName> à <persName sameAs="#CoEg_pers_00000002">Nieuwerkerke</persName>.</note></object>
+  <object xml:id="CoEg_obj_00000001"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">A 26</idno><idno type="Atlas">31644</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc></object>
+  <object xml:id="CoEg_obj_00000011"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">A 90</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><note type="def">Statue de <persName sameAs="#CoEg_pers_00000066">Neshor</persName> présentant une triade thébaine. Autre numéro d'inventaire : N 91.</note></object>
+  <object xml:id="CoEg_obj_00000003"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">C 318</idno><idno type="Atlas">18925</idno></objectIdentifier><physDesc><objectDesc form="stela"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  <object xml:id="CoEg_obj_00000008"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">E 3023</idno><idno type="Atlas">14135</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history><note type="def">Le "Scribe accroupi".</note></object>
+  <object xml:id="CoEg_obj_00000007"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">N 390</idno><idno type="Atlas">20284</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  <object xml:id="CoEg_obj_00000002"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">N 391</idno><idno type="Atlas">18923</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  <object xml:id="CoEg_obj_00000009"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">N 405</idno><idno type="Atlas">20285</idno></objectIdentifier><physDesc><objectDesc form="stela"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  <object xml:id="CoEg_obj_00000010"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">N 413</idno><idno type="Atlas">27866</idno></objectIdentifier><physDesc><objectDesc form="stela"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  <object xml:id="CoEg_obj_00000012"><objectIdentifier><institution sameAs="#CoEg_org_00000003">Louvre</institution><idno type="Louvre">N 420</idno><idno type="Atlas">18928</idno></objectIdentifier><physDesc><objectDesc form="misc"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history><note type="def">Porte du <placeName sameAs="#CoEg_place_00000004">Sérapéum</placeName>. <persName sameAs="#CoEg_pers_00000001">Mariette</persName> lui a attribué le numéro 5.</note></object>
+  <object xml:id="CoEg_obj_00000004"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">N 432 A</idno><idno type="Atlas">18924</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  <object xml:id="CoEg_obj_00000005"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">N 432 B</idno><idno type="Atlas">18934</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  <object xml:id="CoEg_obj_00000006"><objectIdentifier><institution sameAs="#CoEg_org_00000002">Louvre</institution><idno type="Louvre">N 432 C</idno><idno type="Atlas">18930</idno></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><history><provenance sameAs="#CoEg_place_00000004">Sérapéum</provenance></history></object>
+  </listObject></div>
+          <div><head>Glossaire</head>
+          <entry xml:id="CoEg_term_00000018"><form><hi>ad hoc</hi></form><note>Latin, "à cet effet".</note><ref type="Wikidata">Q192683</ref><ref type="CNRTL">ad hoc</ref></entry>
+  <entry xml:id="CoEg_term_00000013"><form><hi>arnaoute</hi></form><note>Du turc ottoman آرناوود [<hi rend="italic">ārnāvut</hi>] "Albanais", notamment des guerriers formant des corps mercenaires dans le monde ottoman.</note><ref type="Wikidata">Q2863045</ref></entry>
+  <entry xml:id="CoEg_term_00000003"><form><hi>bey</hi></form><note>Du turc ottoman بك [<hi rend="italic">beg</hi>] "seigneur". Titre honorifique ottoman. Les officiers civils et militaires le portent après leur nom.</note><note type="Mariette">Quand il est porté après le nom, <persName sameAs="#CoEg_pers_00000001">Mariette</persName> le joint par un tiret, sans majuscule.</note><ref type="Wikidata">Q181217</ref><ref type="CNRTL">bey</ref></entry>
+  <entry xml:id="CoEg_term_00000016"><form><hi>cheikh el-beled</hi></form><note>De l'arabe شَيْخ الْبَلَد‎ [<hi rend="italic">šayḫ al-balad</hi>], "chef de village".</note></entry>
+  <entry xml:id="CoEg_term_00000012"><form><hi>dahabieh</hi></form><note>De l'arabe ذَهَبِيَّة [<hi rend="italic">ḍahabiyya</hi>] "dorée". Embarcation nilotique à faible tirant d’eau et naviguant à l’aide de deux mâts à voile latine.</note><ref type="Wikidata">Q441975</ref><ref type="CNRTL">dahabieh</ref></entry>
+  <entry xml:id="CoEg_term_00000007"><form><hi>divan</hi></form><note>Du persan  دیوان [<hi rend="italic">dīwān</hi>] "rassemblement, réunion, conseil". Administration, gouvernement.</note><ref type="Wikidata">Q830104</ref><ref type="CNRTL">divan</ref></entry>
+  <entry xml:id="CoEg_term_00000015"><form><hi>djirid</hi></form><note></note></entry>
+  <entry xml:id="CoEg_term_00000006"><form><hi>drogman</hi></form><note>De l'arabe تُرْجُمَان [<hi rend="italic">turjuman</hi>] "guide, interprète". Agent auxiliaire des consulats ou des étrangers en voyage.</note><ref type="Wikidata">Q1136290</ref><ref type="CNRTL">drogman</ref></entry>
+  <entry xml:id="CoEg_term_00000010"><form><hi>effendi</hi></form><note>Du turc ottoman افندی‎ [<hi rend="italic">efendi</hi>]. Titre de respect et de courtoisie, notamment propre aux lettrés.</note><ref type="Wikidata">Q321803</ref><ref type="CNRTL">effendi</ref></entry>
+  <entry xml:id="CoEg_term_00000014"><form><hi>fantasia</hi></form><note></note><ref type="Wikidata">Q1395855</ref><ref type="CNRTL">fantasia</ref></entry>
+  <entry xml:id="CoEg_term_00000009"><form><hi>fellah</hi></form><note>De l'arabe فَلَّاح‎ [<hi rend="italic">fallāḥ</hi>], "paysan".</note><ref type="Wikidata">Q685896</ref><ref type="CNRTL">fellah</ref></entry>
+  <entry xml:id="CoEg_term_00000005"><form><hi>firman</hi></form><note>Du turc ottoman فرمان [<hi rend="italic">fermān</hi>] "ordre, décret". Autorisation officielle quelconque.</note><ref type="CNRTL">firman</ref></entry>
+  <entry xml:id="CoEg_term_00000017"><form><hi>medjidie</hi></form><note>Pièce ottomane.</note><note type="Mariette"><persName sameAs="#CoEg_pers_00000001">Mariette</persName> semble écrire "midjidi".</note></entry>
+  <entry xml:id="CoEg_term_00000004"><form><hi>moudir</hi></form><note>De l'arabe مُدِير‎ [<hi rend="italic">mudīr</hi>] "directeur". Gouverneur ottoman.</note><ref type="CNRTL">moudir</ref></entry>
+  <entry xml:id="CoEg_term_00000002"><form><hi>pacha</hi></form><note>Du turc ottoman پاشا‎ [<hi rend="italic">pāšā</hi>]. Désigne les plus hauts dignitaires et les souverains. Porté après le nom.</note><ref type="Wikidata">Q184951</ref><ref type="CNRTL">pacha</ref></entry>
+  <entry xml:id="CoEg_term_00000008"><form><hi>para</hi></form><note>Pièce ottomane de petite monnaie en cuivre.</note><ref type="Wikidata">Q928186</ref><ref type="CNRTL">para</ref></entry>
+  <entry xml:id="CoEg_term_00000011"><form><hi>proscynème</hi></form><note>Du grec ancien προσκύνημα [<hi rend="italic">proskynèma</hi>] "adoration". Désigne les formules d’offrandres et les stèles qui les portent.</note></entry>
+  <entry xml:id="CoEg_term_00000001"><form><hi>simoun</hi></form><note>De l’arabe سَمُوم‎ [<hi rend="italic">samūm</hi>]. Vent chaud, sec et violent qui souffle sur les côtes orientales de la mer Méditerranée : au Sahara, en Palestine, en Syrie et dans le désert d’Arabie.</note><note type="Mariette"><persName sameAs="#CoEg_pers_00000001">Mariette</persName> utilise le terme avec une majuscule.</note><ref type="Wikidata">Q646585</ref><ref type="CNRTL">simoun</ref></entry>
+        </div>
+          <div><head>Abbréviations</head><superEntry>
+          <entry xml:id="CoEg_abbr_00000005"><form><abbr>1<hi rend="superscript">o</hi></abbr></form><sense>"<hi rend="italic">primo</hi>"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000006"><form><abbr>2<hi rend="superscript">o</hi></abbr></form><sense>"<hi rend="italic">secundo</hi>"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000007"><form><abbr>3<hi rend="superscript">o</hi></abbr></form><sense>"<hi rend="italic">tertio</hi>"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000002"><form><abbr>Aug.</abbr></form><sense>"Auguste"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000012"><form><abbr>Eug.</abbr></form><sense>"Eugène"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000013"><form><abbr>fr.</abbr></form><sense>"francs"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000016"><form><abbr>LL. MM.</abbr></form><sense>"Leurs Majestés"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000001"><form><abbr>M<hi rend="superscript underline">r</hi></abbr></form><sense>"Monsieur"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000009"><form><abbr>MM.</abbr></form><sense>"Messieurs"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000014"><form><abbr>Mons.</abbr></form><sense>"Monsieur". Forme plus rare que <abbr sameAs="#CoEg_abbr_00000001">M<hi rend="superscript underline">r</hi></abbr>.</sense></entry>
+          <entry xml:id="CoEg_abbr_00000010"><form><abbr>n<hi rend="superscript">o</hi></abbr></form><sense>"numéro"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000011"><form><abbr>n<hi rend="superscript">os</hi></abbr></form><sense>"numéros"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000008"><form><abbr>P. S.</abbr></form><sense>"<hi rend="italic">post-scriptum</hi>"</sense></entry>
+          <entry xml:id="CoEg_abbr_00000003"><form><abbr>S. A.</abbr></form><sense>"Son Altesse"</sense><note>Prédicat notamment porté par le vice-roi d'Égypte.</note></entry>
+          <entry xml:id="CoEg_abbr_00000015"><form><abbr>S. A. I.</abbr></form><sense>"Son Altesse Impériale"</sense><note>Prédicat des princes de la famille impériale française.</note></entry>
+          <entry xml:id="CoEg_abbr_00000004"><form><abbr>S. E.</abbr></form><sense>"Son Excellence"</sense><note>Prédicat des ministres.</note></entry>
+          <entry xml:id="CoEg_abbr_00000017"><form><abbr>fr</abbr></form><sense>"francs"</sense><note>Variante de l'<rs sameAs="CoEg_abbr_00000013">abréviation habituelle</rs> sans point abréviatif.</note></entry>
+          <entry xml:id="CoEg_abbr_00000018"><form><abbr>X<hi rend="superscript">bre</hi></abbr></form><sense>octobre</sense></entry>
+  </superEntry>
+        </div>
+      </body>
+    </text>
+  </TEI>

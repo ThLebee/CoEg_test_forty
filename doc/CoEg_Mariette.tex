@@ -18,6 +18,7 @@
     filecolor=blue,      
     urlcolor=blue,
 }
+\graphicspath{ {./images/} }
 
 \newglossary[]{place}{}{}{Lieux}{}
 \newglossary[]{contemp}{}{}{Contemporains de Mariette}{}
@@ -244,7 +245,29 @@
 \begin{document}
 \selectlanguage{french}
 \begin{titlepage}
-\centering    
+\centering
+
+\hspace{0pt}
+\vfill
+\large
+C O R R E S P O N D A N C E S\space\space\space É G Y P T O L O G I Q U E S \vspace{3\baselineskip}
+
+\Large L E T T R E S\space\space\space D ’ A U G.\space\space\space M A R I E T T E
+\vspace{15\baselineskip}
+\vfill
+\hspace{0pt}
+
+\pagebreak
+
+\hspace{0pt}
+\vfill
+\includegraphics[height=12cm]{CoEg_Mariette_portrait.jpg}
+\vfill
+\hspace{0pt}
+
+\pagebreak
+
+
 \LARGE{C O R R E S P O N D A N C E S}
     
 \Huge{É G Y P T O L O G I Q U E S}
@@ -253,37 +276,53 @@
 \large C O N T E N A N T\space\space\space D E S
 \vspace{1\baselineskip}
 
-\Large L E T T R E S\space\space\space D ' É G Y P T O L O G U E S
+\Large L E T T R E S\space\space\space D ’ É G Y P T O L O G U E S
 \vspace{2\baselineskip}
 
 \large dispersées dans diverses institutions
 \vspace{1\baselineskip}
 
-et qui n'ont pas encore été rassemblées jusqu'à ce jour
+et qui n’ont pas encore été rassemblées jusqu’à ce jour
 \vspace{9\baselineskip}
 
-\LARGE L E T T R E S\space\space\space D\space '\space A U G .\space\space\space M A R I E T T E
+\LARGE L E T T R E S\space\space\space D\space ’\space A U G .\space\space\space M A R I E T T E
 \vspace{4\baselineskip}
 
 \normalsize É D I T É E S\space\space\space P A R \space\space\space T H .\space\space\space L E B É E
 \vspace{4\baselineskip}
 
-Version 0,18
+Version 0,18 bis
 \vspace{1\baselineskip}
 
-Février 2020
+Juin 2020
 \end{titlepage}
+
+\frontmatter
 
 \chapter*{Introduction}
 \addcontentsline{toc}{chapter}{Introduction}
+
+\section*{Le projet des \textit{Correspondances égyptologiques}}
+\addcontentsline{toc}{section}{Le projet des Correspondances égyptologiques}
+
+Ce fichier résulte d’un projet personnel d’édition numérique des lettres écrites par l’égyptologue Auguste Mariette. Il s’agit d’une initiative dont l’objectif est de rendre librement accessibles ces documents et de permettre leur exploitation scientifique.
+\par Le corpus édité ici a vocation à intégrer chaque lettre repérée de Mariette. Les brouillons de lettres seront aussi incorporés, dans la mesure où il n’est pas toujours possible d’établir si une lettre a véritablement été transmise à son destinataire et que les hésitations et repentirs de la rédactions peuvent être riches d’enseignements.
+\par L’édition des lettres sera progressive, afin de publier les documents régulièrement et d’en améliorer le format au moyen des suggestions qui pourront être recueillies au cours de l’entreprise. Les sources parisiennes seront dépouillées en priorité pour commencer (par pure commodité matérielle), mais bien d’autres devraient suivre.
+\par Les publications successives du corpus sont disponibles sur le site \href{https://thlebee.github.io/CoEg_test_forty/}{\textit{Correspondances égyptologiques}}, à la fois au format XML-TEI et en une version PDF réalisée au moyen de Latex (que vous consultez en ce moment). Les métadonnées du corpus sont aussi disponibles. Chaque enrichissement sera signalé sur le carnet de recherche \href{https://hef.hypotheses.org/}{\textit{Histoire de l’égyptologie en formation}}.
+\par Toute remarque, critique ou suggestion d’amélioration sera la bienvenue à l’adresse suivante~: \href{mailto:correspondances.egyptologiques@laposte.net}{correspondances.egyptologiques@laposte.net} (merci également d’y signaler toute utilisation qui pourra être faite de ces ressources, à titre d’information).
+\par Le contenu de ce document est publié sous licence CC-BY~: toute réutilisation en est permise, et encouragée~– sous réserve de la mention de la source (par exemple~: «~Auguste Mariette (Thomas Lebée, éd.), \textit{Correspondances égyptologiques. Lettres d’Auguste Mariette}~»).
+
 \section*{Encodage et principes éditoriaux}
 \addcontentsline{toc}{section}{Encodage et principes éditoriaux}
-L'encodage des lettres de Mariette\gls{CoEg_pers_00000001} résulte de plusieurs étapes, destinées à transcrire le document tel qu'il apparaît, puis à baliser ses composants structurels et un certain nombre de termes d'indexations.
-\par Le texte a été transcrit sans modification, en reproduisant sa mise en forme et son usage des accents et des majuscules (quand leur graphie est manifeste en tout cas). Le texte souligné a été reproduit en italiques. Les exposant de quelques abréviations ayant une forme parfois ambigüe, il a été choisi de les souligner, plutôt que de les superposer à un simple point.
-\par Les difficultés de lecture ont été notées entre crochets, avec parfois des suppositions accompagnées d'un point d'interrogation. Dans le cas où la graphie manuscrite pouvait laisser planer un doute sur l'orthographe ou la ponctuation, en revanche, la forme régulière a été retenue.
-\par Les fautes manifestes ont été conservées, et signalées comme telles dès lors qu'elles s'éloignaient de l'orthographe et de l'usage contemporains établis par les \emph{Dictionnaires} successivement publiés par l'Académie française en 1835 et 1878).
-\par Les termes signalés par une astérisque ont été indexés à la fin du fichier : il s'agit des personnes, institutions, lieux, objets et publications présents dans le texte et son apparat critique.
-\par Les termes étrangers ou rares et les abréviations, enfin, ont aussi été indexées.
+
+\par L’encodage résulte de plusieurs étapes, destinées à transcrire le document tel qu’il apparaît, puis à baliser ses composants structurels et un certain nombre de termes d’indexations.
+\par Le corpus édité ici a vocation à intégrer chaque lettre repérée de Mariette. Les brouillons de lettres seront aussi incorporés, dans la mesure où il n’est pas toujours possible d’établir si une lettre a véritablement été transmise à son destinataire et que les hésitations et repentirs de la rédactions peuvent être riches d’enseignements.
+\par Chaque lettre a été considérée comme une unité documentaire distincte, dont les références bibliographiques et administratives sont rappelées en tête de notice, avec le cas échéants toutes remarques jugées utile à sa compréhension. Les lettres peuvent dès lors être arrangées dans l’ordre chronologique pour retrouver leur continuité malgré la dispersion des fonds.
+\par La ponctuation de Mariette a été conservée sans modification autant qu’elle était lisible. Pour être compréhensibles, les signes de ponctuation barrés ont parfois été remplacés par leur description entre crochets.
+\par Cette édition recherche la plus grande fidélité au texte de Mariette. Les graphies variables des noms propres et l’absence d’accents sur les majuscules ont ainsi été conservées telles quelles. Les fautes d’orthographe, systématiques ou incidentes, ont également été conservées, et marquées par un balisage aproprié dès lors qu’elles s’éloignaient de l’orthographe et de l’usage contemporain. Toute intervention ou doute dans la lecture du texte manuscrit est signalée explicitement par le balisage ou la ponctuation.
+\par La copie numérique, comme la transcription par des caractères mécaniques, comporte cependant une part d’interprétation et de standardisation. Puisqu’il s’agissait de reproduire un texte manuscrit en caractères typographiques, les codes habituels ont été appliqués~: le texte souligné à la main a été rendu en italiques, le double soulignement par de petites capitales et les guillemets ont systématiquement été transcrits comme des guillemets typographiques (en chevrons).
+\par L’écriture de Mariette n'est pas des plus régulières et les hampes de ses lettres sont parfois trompeuses. En cas de doute entre une majuscule ou une minuscule, ou même sur l’orthographe utilisée, la graphie régulière a été privilégiée en l’absence d’erreur manifeste. Les lectures hasardeuses sont signalées par le balisage, mais il est aussi à noter que les mots courts sont régulièrement hasardeux. Si le contexte permet d’en confirmer la plupart, certaines distinctions restent largement conjecturales (notamment la différence entre «~notre~»/«~votre~» et «~nos~»/«~vos~»). Les ratures ont été déchiffrées dans la mesure du possible, ou juste indiquées en tant que telles.
+
 \section*{Le corpus}
 \addcontentsline{toc}{section}{Le corpus}
 \subsection*{Archives nationales}
@@ -318,12 +357,17 @@ Trois lettres datent du second voyage en Égypte\gls{CoEg_place_00000003} de Mar
 La dernière lettre, du 20 décembre 1860, est la réponse à celle envoyée à Mariette\gls{CoEg_pers_00000001} par Nieuwerkerke\gls{CoEg_pers_00000002} le 29 novembre (conservée dans le dossier et transcrite en note) et dans laquelle il lui annonçait être contraint de nommer un conservateur adjoint à sa place, et le nommait lui-même conservateur adjoint honoraire, Mariette\gls{CoEg_pers_00000001} se trouvant alors déjà engagé au service du vice-roi\gls{CoEg_pers_00000080} d’Égypte\gls{CoEg_place_00000003} pour diriger le service des antiquités.\par
 Trois de ses lettres sont destinées au ministre de l’Intérieur (dont dépendaient les musées nationaux\gls{CoEg_org_00000001} jusqu’en 1852) ; sept s’adressent au directeur du musée du Louvre\gls{CoEg_org_00000002}, le comte de Nieuwerkerke\gls{CoEg_pers_00000002} ; enfin, le destinataire de neuf d’entre elles n’est pas explicitement nommé, mais il s’agissait manifestement d’un fonctionnaire parisien en relation avec les autres administrations et qui fréquentait les collègues de Mariette\gls{CoEg_pers_00000001} au Louvre\gls{CoEg_org_00000002} : il est très probable qu’il s’agisse là aussi du comte de Nieuwerkerke\gls{CoEg_pers_00000002}.\par
 Ces archives originellement conservées à la bibliothèque centrale des musées nationaux ont été versées aux Archives nationales en 2015.
+
 \section*{Historique du fichier}
 \addcontentsline{toc}{section}{Historique du fichier}
 \begin{itemize}
 \item Février 2020 : v. 0,18 : essais sur un premier échantillon de lettres issus du dossier de carrière de Mariette\gls{CoEg_pers_00000001} dans l'administration des musées nationaux\gls{CoEg_org_00000001}.
+\item Juin 2020 : v. 0,18 bis : toujours sur le même corpus restreint, essai de traitement complet de l'ensemble documentaire selon une procédure plus cadrée et essais de publications sur \href{https://thlebee.github.io/CoEg_test_forty/}{GitHub}.
 \end{itemize}
-\chapter*{Lettres d'Aug. Mariette}
+
+\mainmatter
+
+\chapter*{Lettres d'Auguste Mariette}
 \addcontentsline{toc}{chapter}{Lettres d'Aug. Mariette}
 \section*{Le 28 février 1851, de Saqqara, à Nieuwerkerke} \label{CoEg_Mariette_1851-02-28} \addcontentsline{toc}{section}{Le 28 février 1851, de Saqqara, à Nieuwerkerke}
 {\footnotesize
