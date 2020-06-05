@@ -29,7 +29,7 @@ nav-menu: true
 
 		<p>Les données descriptives des lettres sont ici rassemblées sous différents formats pour pouvoir être exploités informatiquement.
 			<ul><li>La descriptions des lettres  (au format CSV) à <a href="{{site.baseurl}}/doc/CoEg_Mariette_letters.tsv download">télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_letters.tsv">consulter dans le navigateur</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
-			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml" download>télécharger</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml">consulter dans le navigateur</a>.</li></ul></p>
+			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_CMIF.xml">consulter dans le navigateur</a>.</li></ul></p>
 
 	</section>
 	
