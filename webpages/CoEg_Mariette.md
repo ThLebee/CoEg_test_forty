@@ -19,17 +19,17 @@ nav-menu: true
 
 			<p>Les lettres peuvent être téléchargées sous plusieurs formats&nbsp;:
 				<ul>
-					<li>Une édition PDF, qui permet de consulter le corpus&nbsp;(à <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.pdf">consulter dans le navigateur</a> si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
-					<li>Le fichier Latex qui a permis de générer l’édition PDF&nbsp;à <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.tex">consulter dans le navigateur</a>&nbsp;;</li>
-					<li>Une édition en XML-TEI&nbsp;: à <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.xml">consulter dans le navigateur</a>.</li></ul></p>
+					<li>Une édition PDF, qui permet de consulter le corpus&nbsp;(à <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.pdf">consulter sur Github</a> ou <a href="https://thlebee.github.io/CoEg_test_forty/doc/CoEg_Mariette.pdf">consulter dans le navigateur</a> si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
+					<li>Le fichier Latex qui a permis de générer l’édition PDF&nbsp;à <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.tex">consulter sur Github</a>&nbsp;;</li>
+					<li>Une édition en XML-TEI&nbsp;: à <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.xml">consulter sur Github</a>.</li></ul></p>
 
 	<section>
 	
 		<h2>Métadonnées des lettres</h2>
 
 		<p>Les données descriptives des lettres sont ici rassemblées sous différents formats pour pouvoir être exploités informatiquement.
-			<ul><li>La descriptions des lettres  (au format CSV) à <a href="{{site.baseurl}}/doc/CoEg_Mariette_letters.tsv download">télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_letters.tsv">consulter dans le navigateur</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
-			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_CMIF.xml">consulter dans le navigateur</a>.</li></ul></p>
+			<ul><li>La descriptions des lettres  (au format CSV) à <a href="{{site.baseurl}}/doc/CoEg_Mariette_letters.tsv download">télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_letters.tsv">consulter sur Github</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
+			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_CMIF.xml">consulter sur Github</a>.</li></ul></p>
 
 	</section>
 	
