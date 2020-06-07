@@ -41,23 +41,21 @@ nav-menu: true
 
 		<div>
 		
-			<h3>Chronologie des lettres éditées</h3>
-			
-			<p>Cette frise indique les lettres éditées, classées par correspondant.</p>
 
-			<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=1&height=500' width='100%' height='500px' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe></div>
+
+			
 <hr>
+		<h3>Visualiser les lettres dans le temps et l’espace</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Carte des lettres éditées</h3>
-		<p>Sur cette carte, chaque lettre est rattachée à son lieu d’écriture. La description donne des informations plus détaillées sur sa date et sa localisation actuelle.</p>
+		<h4>Lieux d'écriture des lettres</h4>
+		<p>Sur cette carte, chaque lettre est rattachée à son lieu d’écriture. La description donne des informations plus détaillées sur sa date et sa localisation actuelle, ainsi qu’un lien vers la lettre dans le fichier PDF.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Carte des lieux mentionnés dans les lettres</h3>
 
-		<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée est accessible dans l’<a href="{{site.baseurl}}/webpages/data">index</a>.</p>
-		
-	</div>
+			<h4>Chronologie des lettres éditées</h4>
+			
+			<p>Cette frise indique les lettres éditées, classées par correspondant, avec un lien pour accéder à la lettre en question dans le fichier PDF.</p>	</div>
 </div>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -65,8 +63,14 @@ nav-menu: true
 		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359" class="button small">Voir en plein écran</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#5/37.996/25.884"></iframe>
-		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360" class="button small">Voir en plein écran</a></p>
+		
+		<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=1&height=500' width='100%' height='500px' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe></div>
+		
 	</div>
 </div>
+<hr>
+<h3>Lieux mentionnés dans les lettres</h3>
+<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée des lieux est accessible dans l’<a href="{{site.baseurl}}/webpages/data">index</a>.</p>
+		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#5/37.996/25.884"></iframe>
+		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360" class="button small">Voir en plein écran</a></p>
 			</section>
