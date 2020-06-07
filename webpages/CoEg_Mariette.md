@@ -19,7 +19,7 @@ nav-menu: true
 
 			<p>Les lettres peuvent être téléchargées sous plusieurs formats&nbsp;:
 				<ul>
-					<li>Une édition PDF, qui permet de consulter le corpus&nbsp;(à <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.pdf">consulter sur Github</a> ou <a href="https://thlebee.github.io/CoEg_test_forty/doc/CoEg_Mariette.pdf">consulter dans le navigateur</a> si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
+					<li>Une édition PDF, qui permet de consulter le corpus&nbsp;(à <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.pdf">consulter sur Github</a> ou <a href="https://thlebee.github.io/CoEg_test_forty/doc/CoEg_Mariette.pdf">consulter dans le navigateur</a> si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
 					<li>Le fichier Latex qui a permis de générer l’édition PDF&nbsp;à <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.tex">consulter sur Github</a>&nbsp;;</li>
 					<li>Une édition en XML-TEI&nbsp;: à <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.xml">consulter sur Github</a>.</li></ul></p>
 
@@ -60,11 +60,13 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#5/37.996/25.884"></iframe>
-		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359" class="button small">Voir en plein écran</a></p>
+		<center><p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux-decriture_461359" class="button small">Voir en plein écran</a></p></center>
 	</div>
 	<div class="6u$ 12u$(small)">
 		
-		<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=1&height=500' width='100%' height='500px' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe></div>
+		<iframe width="100%" height="500px" src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=1&height=500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+		<center><p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=2&height=650" class="button small">Voir en plein écran</a></p><center>
+		</div>
 		
 	</div>
 </div>
