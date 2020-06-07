@@ -65,7 +65,7 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		
 		<iframe width="100%" height="500px" src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=1&height=500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-		<center><p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=2&height=650" class="button small">Voir en plein écran</a></p><center>
+		<center><p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dSLs2GhF5R_Ly6vMcmb1ixwKNxUXUVIr1il8k6omaM8&font=Default&lang=fr&initial_zoom=2&height=650" class="button small">Voir en plein écran</a></p></center>
 		</div>
 		
 	</div>
