@@ -15,21 +15,21 @@ nav-menu: true
 <!-- Content -->
 		<h2>Édition des lettres</h2>
 
-			<iframe src="https://ThLebee.github.io/CoEg_test_forty/doc/CoEg_Mariette.pdf" width="100%" height="500px"></iframe>
+			<iframe src="https://ThLebee.github.io/CoEg/doc/CoEg_Mariette.pdf" width="100%" height="500px"></iframe>
 
 			<p>Les lettres peuvent être téléchargées sous plusieurs formats&nbsp;:
 				<ul>
-					<li>Une édition PDF, qui permet de consulter le corpus&nbsp;(à <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.pdf">consulter sur Github</a> ou <a href="https://thlebee.github.io/CoEg_test_forty/doc/CoEg_Mariette.pdf">consulter dans le navigateur</a> si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
-					<li>Le fichier Latex qui a permis de générer l’édition PDF&nbsp;à <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.tex">consulter sur Github</a>&nbsp;;</li>
-					<li>Une édition en XML-TEI&nbsp;: à <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette.xml">consulter sur Github</a>.</li></ul></p>
+					<li>Une édition PDF, qui permet de consulter le corpus&nbsp;(à <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette.pdf">consulter sur Github</a> ou <a href="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.pdf">consulter dans le navigateur</a> si le lecteur ci-dessus n’est pas opérant)&nbsp;;</li>
+					<li>Le fichier Latex qui a permis de générer l’édition PDF&nbsp;à <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette.tex">consulter sur Github</a>&nbsp;;</li>
+					<li>Une édition en XML-TEI&nbsp;: à <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette.xml">consulter sur Github</a>.</li></ul></p>
 
 	<section>
 	
 		<h2>Métadonnées des lettres</h2>
 
 		<p>Les données descriptives des lettres sont ici rassemblées sous différents formats pour pouvoir être exploités informatiquement.
-			<ul><li>La descriptions des lettres  (au format CSV) à <a href="{{site.baseurl}}/doc/CoEg_Mariette_letters.tsv download">télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_letters.tsv">consulter sur Github</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
-			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_Mariette_CMIF.xml">consulter sur Github</a>.</li></ul></p>
+			<ul><li>La descriptions des lettres  (au format CSV) à <a href="{{site.baseurl}}/doc/CoEg_Mariette_letters.tsv download">télécharger</a> ou <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette_letters.tsv">consulter sur Github</a>&nbsp;: les différents champs y reprennent, pour chaque lettre éditée, son identifiant, l’institution et le lieu de conservation, la date et le lieu d'écriture, l’identité du destinataire, ainsi que les identifiants associés&nbsp;;</li>
+			<li>La description des lettres au format <a href="https://correspsearch.net/index.xql?id=participate_cmi-format">XML-CMIF</a> à <a href="{{site.baseurl}}/doc/CoEg_Mariette_CMIF.xml" download>télécharger</a> ou <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette_CMIF.xml">consulter sur Github</a>.</li></ul></p>
 
 	</section>
 	
@@ -74,5 +74,5 @@ nav-menu: true
 <h3>Lieux mentionnés dans les lettres</h3>
 <p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée des lieux est accessible dans l’<a href="{{site.baseurl}}/webpages/data">index</a>.</p>
 		<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#5/37.996/25.884"></iframe>
-		<p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360" class="button small">Voir en plein écran</a></p>
+		<center><p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360" class="button small">Voir en plein écran</a></p></center>
 			</section>
