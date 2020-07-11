@@ -59,10 +59,6 @@ nav-menu: true
 
 <p>Beaucoup des objets mentionnés restent encore à attribuer. Ceux qui ont été identifiés peuvent être consultés <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_obj.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_obj.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_obj.tsv" download>téléchargés</a>.</p></div>
 
-
-<div class="4u 12u$(small)"><h2>Publications</h2>
-
-<p></p></div>
 </div>
 <div class="row">
 
