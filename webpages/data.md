@@ -16,7 +16,7 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-<p>Cette page rassemble les notices d’indexations utilisées dans l’édition XML-TEI des lettres, également utilisées après quelques conversion dans la version PDF. Elles sont téléchargeables aux formats CSV et XML-TEI, par catégorie.</p>
+<p>Cette page rassemble les notices d’indexations utilisées dans l’édition XML-TEI des lettres, également mises à contribution, après quelques conversions, dans la version PDF. Elles sont téléchargeables aux formats CSV et XML-TEI, par catégorie.</p>
 <p>Les fichiers seront mis à jour à chaque enrichissement de l’édition des lettres de Mariette.</p>
 	</div>
 	<div class="6u 12u$(small)">
@@ -31,42 +31,28 @@ nav-menu: true
 <div>
 <h2>Personnes</h2>
 
-<p></p></div>
-<div class="row">
-	<div class="4u 12u$(small)">
-<h3>Contemporains</h3>
-
-<p>Cette catégorie regroupe les individus contemporains de l’écriture des lettres.</p></div>
-
-<div class="4u 12u$(small)">
-<h3>Personnages historiques</h3>
-
-<p>Cette catégorie regroupe les individus antérieurs à l’écriture des lettres.</p></div>
-
-<div class="4u 12u$(small)">
-<h3>Figures mythiques et divines</h3>
-
-<p>Cette catégorie regroupe surtout les personnages appartenant à la mythologie antique, mais aussi les mentions de figures religieuses monothéistes.</p></div>
-
-</div>
+<p>Les différentes personnes évoquées dans les lettres ont été regroupées en trois catégories&nbsp;:
+<ul><li>Contemporains de l’écriture des lettres&nbsp;;</li>
+<li>Personnages historiques&nbsp;;</li>
+<li>Figures mythiques et divines (cette catégorie regroupe surtout les personnages appartenant à la mythologie antique, mais aussi les mentions de figures religieuses monothéistes).</li></ul></p></div>
 
 <div class="row">
 <div class="4u 12u$(small)"><h2>Lieux</h2>
 
-<p>La liste des lieux cités (au format CSV (à <a href="https://thlebee.github.io/CoEg_test_forty/raw/gh-pages/doc/CoEg_index_place.tsv">consulter directement dans le navigateur</a> ou à <a href="{{site.baseurl}}/doc/CoEg_index_place.tsv" download>télécharger</a>) rassemble les données qui ont permis de réaliser les index des éditions des lettres aux différents formats et <a href="http://u.osmfr.org/m/461360/">leur carte</a>.</p></div>
+<p>La liste des lieux cités au format CSV (à <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_place.tsv">consulter directement dans le navigateur</a> ou à <a href="{{site.baseurl}}/doc/CoEg_index_place.tsv" download>télécharger</a>) rassemble les données qui ont permis de réaliser les index des éditions des lettres aux différents formats et <a href="http://u.osmfr.org/m/461360/">leur carte</a>.</p></div>
 
 
 <div class="4u 12u$(small)"><h2>Bateaux</h2>
 
 <p>Il n’est pas certain que cette catégorie soit conservée, du fait de ses maigres applications. En outre, le modèle d'encodage n’est pas non plus tout à fait adapté (un bateau s’apparente-t-il plus à un lieu, une organisation ou une personne&nbsp;? cette dernière possibilité a été adoptée pour l’instant). Toujours est-il qu’un navire est mentionné dans l’échantillon et peut donc être indexé.</p></div>
 
-
+</div>
+<div class="row">
 <div class="4u 12u$(small)"><h2>Institutions</h2>
 
 <p></p></div>
 
-</div>
-<div class="row">
+
 <div class="4u 12u$(small)"><h2>Objets</h2>
 
 <p></p></div>
@@ -75,20 +61,20 @@ nav-menu: true
 <div class="4u 12u$(small)"><h2>Publications</h2>
 
 <p></p></div>
-
+</div>
+<div class="row">
 
 <div class="4u 12u$(small)"><h2>Thèmes abordées</h2>
 
-<p>Cette catégorie est encore à l’état d'ébauche&nbsp;; elle est sûrement très subjective dans la délimitation de ses thèmes pour aboutir à des entrées suffisamment précises sans être trop particulières.</p></div>
+<p>Cette catégorie est encore à l’état d’ébauche&nbsp;; elle est sûrement très subjective dans la délimitation de ses thèmes pour aboutir à des entrées suffisamment précises sans être trop particulières.</p></div>
 
-</div>
-<div class="row">
-<div class="6u 12u$(small)"><h2>Glossaire</h2>
+
+<div class="4u 12u$(small)"><h2>Glossaire</h2>
 
 <p>Cette catégorie regroupe des entrées lexicales destinées à indiquer le sens de mots techniques ou étrangers.</p></div>
 
 
-<div class="6u 12u$(small)"><h2>Termes égyptiens</h2>
+<div class="4u 12u$(small)"><h2>Termes égyptiens</h2>
 
 <p>Les lettres de l’échantillon ne comportent pas de citation hiéroglyphique. Le cas échéant, il pourra être utile de lister les termes présents, en les alignant sur les entrées du <i><a href="http://aaew.bbaw.de/tla/">Thesaurus Linguæ Ægyptiæ</a></i>.</p></div>
 
